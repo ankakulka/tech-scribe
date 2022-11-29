@@ -1,0 +1,4 @@
+baseURL = 'http://tech-scribe.com/'
+languageCode = 'en-uk'
+title = 'Tech Scribe'
+theme = 'ananke'
