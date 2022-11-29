@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://tech-scribe.com/categories/</loc>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/posts/css-animation-tutorial/</loc>
+    <lastmod>2022-11-29T16:02:35+01:00</lastmod>
   </url><url>
-    <loc>http://tech-scribe.com/tags/</loc>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/posts/</loc>
+    <lastmod>2022-11-29T16:02:35+01:00</lastmod>
   </url><url>
-    <loc>http://tech-scribe.com/</loc>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/</loc>
+    <lastmod>2022-11-29T16:02:35+01:00</lastmod>
+  </url><url>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/posts/taxonomy/</loc>
+    <lastmod>2022-11-29T15:48:34+01:00</lastmod>
+  </url><url>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/posts/readability/</loc>
+    <lastmod>2022-11-29T15:42:13+01:00</lastmod>
+  </url><url>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/categories/</loc>
+  </url><url>
+    <loc>https://luxury-mermaid-2fc6e2.netlify.app/tags/</loc>
   </url>
 </urlset>
