@@ -3,6 +3,7 @@ title: "Taxonomy"
 date: 2022-11-29T15:48:34+01:00
 draft: true
 show_reading_time: true
+featured_image: "/images/Lost-Diver.png"
 ---
 
 # Taxonomy 

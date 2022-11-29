@@ -3,6 +3,7 @@ title: "Readability"
 date: 2022-11-29T15:42:13+01:00
 draft: true
 show_reading_time: true
+featured_image: "/images/Lost-Diver.png"
 ---
 
 Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished. 
