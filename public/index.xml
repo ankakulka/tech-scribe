@@ -35,5 +35,16 @@
 A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable.</description>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>https://luxury-mermaid-2fc6e2.netlify.app/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxury-mermaid-2fc6e2.netlify.app/about/</guid>
+      <description>Lost Diver looking for a way out About me I am an experienced Technical writer, fluent in written and spoken English. I am familiar with various tools used to create documentation and the best practices of content creation.
+Some of the technologies I have worked with:
+Version Control: git (GitHub and BitBucket) Content Management Tools: Paligo, WordPress I am not afraid of plunging into new environments - whether literally or figuratively through learning new technologies.</description>
+    </item>
+    
   </channel>
 </rss>
