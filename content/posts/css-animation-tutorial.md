@@ -40,9 +40,9 @@ The first thing I want to do is to make sure that my image sits perfectly in the
 
 ```css
 svg {
-       position: absolute; 
-       margin:auto;
-     }
+    position: absolute;
+    margin: auto;
+}
 
 ```
 
@@ -52,8 +52,8 @@ I'll start with the outermost layer, the circle. There's only one element in thi
 
 ```css
 svg circle {
-           animation: circle-outline 10s alternate infinite;
-           }
+    animation: circle-outline 10s alternate infinite;
+}
 
 ```
 
@@ -69,16 +69,14 @@ The `animation` shorthand property allows me to define the most important featur
 Now that we have set the most important features of the animation, we can move to @keyframes rule which controls the animation (this is where the animation takes place):
 
 ```css 
-    @keyframes circle-outline 
-{ 
-from {
-opacity: 0;
-          }
-to 
-         { 
-opacity: 1;
-          }
-
+    @keyframes circle-outline {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
 ```
 
 I have set the opacity to 0 in the first section so the shape is completely invisible, and to 1 which means it is fully visible (the values between 0-1 can be used or %). As the whole animation lasts 10 seconds, the image slowly appears on the screen, then slowly disappears as the animation is played back in alternating cycles. Any SVG or HTML element can be animated in this way. You can fine-tune your animation by adding other properties such as animation-timing-function which allows you the set the speed of the animation. Find out more at W3schools or Mozilla Docs.
@@ -95,27 +93,21 @@ So I will only animate paths, rather than the whole element.  I have initially s
 
 ```css
 svg circle {
-
-  stroke-dasharray: 1400; 
-
-  animation: 10s circle-outline infinite alternate;
-
-  }
-
+    stroke-dasharray: 1400;
+    animation: 10s circle-outline infinite alternate;
+}
 ```
 
 If you change this value to 100, it will appear as a dashed stroke (as the name implies). At 1400 the stroke fully covers the circumference of the circle, creating an illusion of movement.
 
 ```css
-@keyframes circle-outline
-{ 
-   from {
-    stroke-dashoffset: 1400;
-            }
-  to 
-           { 
-    stroke-dashoffset: 0;
-           }
+@keyframes circle-outline {
+    from {
+        stroke-dashoffset: 1400;
+    }
+    to {
+        stroke-dashoffset: 0;
+    }
 }
 ```
  
