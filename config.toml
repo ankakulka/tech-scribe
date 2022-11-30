@@ -2,3 +2,20 @@ baseURL = 'https://luxury-mermaid-2fc6e2.netlify.app/'
 languageCode = 'en-uk'
 title = 'Tech Scribe'
 theme = 'ananke'
+
+
+[[params.ananke_socials]]
+name = "github"
+url = "https://github.com/ankakulka"
+label = "TND GitHub Account"
+
+[[params.ananke_socials]]
+name = "linkedin"
+url = "https://www.linkedin.com/in/anka-kulczycka/"
+label = "TND LinkedIn Account"
+
+[[params.ananke_socials]]
+name = "behance"
+url = "https://www.behance.net/annakul"
+label = "TND Behance Account"
+color = "#6cc644"
