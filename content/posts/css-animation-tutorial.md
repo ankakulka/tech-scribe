@@ -38,7 +38,7 @@ To find out more about SVGs, check out this page.
 
 The first thing I want to do is to make sure that my image sits perfectly in the middle of the screen - I can reference the SVG directly through the CSS rule
 
-```
+```css
 svg {
        position: absolute; 
        margin:auto;
@@ -50,7 +50,7 @@ The next steps will explain how I animated individual parts of the image.
 Animating the circle
 I'll start with the outermost layer, the circle. There's only one element in this image so I can use this as a selector without adding the element id.
 
-```
+```css
 svg circle {
            animation: circle-outline 10s alternate infinite;
            }
@@ -68,7 +68,7 @@ The `animation` shorthand property allows me to define the most important featur
 
 Now that we have set the most important features of the animation, we can move to @keyframes rule which controls the animation (this is where the animation takes place):
 
-``` 
+```css 
     @keyframes circle-outline 
 { 
 from {
@@ -93,7 +93,7 @@ However, it can also appear as a continuous line if the dashes are set to the le
 
 So I will only animate paths, rather than the whole element.  I have initially set the 'stroke-dashoffset' property to 1400 so that a continuous line appears at the beginning of the animation.
 
-```
+```css
 svg circle {
 
   stroke-dasharray: 1400; 
@@ -106,7 +106,7 @@ svg circle {
 
 If you change this value to 100, it will appear as a dashed stroke (as the name implies). At 1400 the stroke fully covers the circumference of the circle, creating an illusion of movement.
 
-```
+```css
 @keyframes circle-outline
 { 
    from {
