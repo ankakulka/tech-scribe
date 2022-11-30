@@ -4,6 +4,7 @@ date: 2022-11-30T11:47:12+01:00
 draft: false
 show_reading_time: true
 featured_image: "/images/snake-selfcanibalising.png"
+tags: ['python', 'PDF']
 ---
 
 # Merge PDFs Using Python

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fast on Tech Scribe</title>
+    <link>https://luxury-mermaid-2fc6e2.netlify.app/tags/fast/</link>
+    <description>Recent content in fast on Tech Scribe</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 29 Nov 2022 16:02:35 +0100</lastBuildDate><atom:link href="https://luxury-mermaid-2fc6e2.netlify.app/tags/fast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CSS Animation Tutorial</title>
+      <link>https://luxury-mermaid-2fc6e2.netlify.app/posts/css-animation-tutorial/</link>
+      <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
+      
+      <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/css-animation-tutorial/</guid>
+      <description>Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display. Thanks to the animation features in CSS3 we can create simple (yet enticing!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,14 @@
 ---
 title: "About"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
-featured_image: '/images/Victor_Hugo-Hunchback.jpg'
+description: "A few words about me"
+featured_image: '/images/writing-desk.png'
 menu:
   main:
     weight: 1
 ---
-<!-- {{< figure src="/images/Lost-Diver.png" title="Lost Diver looking for a way out" >}} -->
+<!-- {{< figure src="/images/writing-desk.png" title="Tech writers desk" >}} -->
 
-# About me 
+# Who am I?
 
 I am an experienced Technical writer, fluent in written and spoken English. I am familiar with various tools used to create documentation and the best practices of content creation. 
 
