@@ -3,7 +3,7 @@ title: "CSS Animation Tutorial"
 date: 2022-11-29T16:02:35+01:00
 draft: false
 show_reading_time: true
-tags: ['CSS', 'SVG', 'animation']
+tags: ['CSS', 'SVG', 'animation','coding']
 ---
 
 # Why create SVG animations using CSS?
