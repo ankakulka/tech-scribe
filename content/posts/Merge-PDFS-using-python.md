@@ -1,5 +1,5 @@
 ---
-title: "Merge PDFS Using Python"
+title: "Merge PDFs Using Python"
 date: 2022-11-30T11:47:12+01:00
 draft: false
 show_reading_time: true
@@ -10,7 +10,9 @@ tags: ['python', 'PDF']
 # Merge PDFs Using Python
 
 Working with PDF files can a pain...but it doesn't have to be. 
-You don't even need any expensive software to do that: just a few lines of Python code. 
+You don't even need any expensive software to do that: just a few lines of Python code will suffice.
+In this quick tutorial I'll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. 
+This method is much quicker and cheaper (all the tools used here are free).
 
 > **Tip!** Some basic Python knowldege required!
 

@@ -8,14 +8,12 @@
     <language>en-uk</language>
     <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://luxury-mermaid-2fc6e2.netlify.app/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Merge PDFS Using Python</title>
+      <title>Merge PDFs Using Python</title>
       <link>https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       
       <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/</guid>
-      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code.
-Tip! Some basic Python knowldege required!
-Gather all PDFs you want to merge in the same folder. In the .py file Import PyPDF2 python library Import PdfMerger class Loop over the pdf files (it is handy to have them all in the same folder so you don&amp;rsquo;t have to specify the full path) Create a new pdf file with merger.</description>
+      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice. In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. This method is much quicker and cheaper (all the tools used here are free).</description>
     </item>
     
   </channel>
