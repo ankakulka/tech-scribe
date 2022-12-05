@@ -4,6 +4,7 @@ date: 2022-11-29T16:02:35+01:00
 draft: false
 show_reading_time: true
 tags: ['CSS', 'SVG', 'animation','coding']
+toc: true
 ---
 
 # Why create SVG animations using CSS?

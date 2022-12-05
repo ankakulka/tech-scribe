@@ -6,7 +6,8 @@
     
     <title>Merge PDFs Using Python | Tech Scribe</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice. In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. This method is much quicker and cheaper (all the tools used here are free).">
+    <meta name="description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free.">
     <meta name="generator" content="Hugo 0.107.0">
     
     
@@ -30,19 +31,22 @@
     
     
     <meta property="og:title" content="Merge PDFs Using Python" />
-<meta property="og:description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice. In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. This method is much quicker and cheaper (all the tools used here are free)." />
+<meta property="og:description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free." />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/" /><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-11-30T11:47:12+01:00" />
 <meta property="article:modified_time" content="2022-11-30T11:47:12+01:00" />
 
 <meta itemprop="name" content="Merge PDFs Using Python">
-<meta itemprop="description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice. In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. This method is much quicker and cheaper (all the tools used here are free)."><meta itemprop="datePublished" content="2022-11-30T11:47:12+01:00" />
+<meta itemprop="description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free."><meta itemprop="datePublished" content="2022-11-30T11:47:12+01:00" />
 <meta itemprop="dateModified" content="2022-11-30T11:47:12+01:00" />
-<meta itemprop="wordCount" content="203">
-<meta itemprop="keywords" content="python,PDF,coding," /><meta name="twitter:card" content="summary"/>
+<meta itemprop="wordCount" content="228">
+<meta itemprop="keywords" content="python,python3,PDF,coding," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Merge PDFs Using Python"/>
-<meta name="twitter:description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice. In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. This method is much quicker and cheaper (all the tools used here are free)."/>
+<meta name="twitter:description" content="Merge PDFs Using Python Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be. You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free."/>
 
 	
   </head>
@@ -137,7 +141,7 @@
     <header class="mt4 w-100">
       <aside class="instapaper_ignoref b helvetica tracked">
           
-        POSTS
+        ARTICLES
       </aside>
       
 
@@ -174,22 +178,23 @@
 
       
       
-        <span class="f6 mv4 dib tracked"> - One minute read </span>
-        <span class="f6 mv4 dib tracked"> - 203 words </span>
+        <span class="f6 mv4 dib tracked"> - 2 minutes read </span>
+        <span class="f6 mv4 dib tracked"> - 228 words </span>
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="merge-pdfs-using-python">Merge PDFs Using Python</h1>
 <p>Working with PDF files can a pain&hellip;but it doesn&rsquo;t have to be.
-You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
-In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program.
-This method is much quicker and cheaper (all the tools used here are free).  <br>
-I&rsquo;m using Python version 3.</p>
+You don&rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.</p>
+<p>In this quick tutorial I&rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.
+This method is much quicker and cheaper and all the tools used here are free.</p>
+<p>I&rsquo;m using Python version 3.</p>
 <blockquote>
 <p><strong>Tip!</strong> Some basic Python knowldege required!</p>
 </blockquote>
 <ol>
-<li>Gather all PDFs you want to merge in the same folder. It is handy to have them all in the same folder so you don&rsquo;t have to specify the full path.</li>
-<li>Install the PyPDF2 package using pip: <code>pip install PyPDF2</code></li>
+<li>Gather all PDFs you want to merge in the same folder.
+You won&rsquo;t have to specify the full path for each file.</li>
+<li>Install the PyPDF2 package <code>pip install PyPDF2</code>.</li>
 <li>Import PyPDF2 python library and PdfMerger class:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> PyPDF2
@@ -197,12 +202,12 @@ I&rsquo;m using Python version 3.</p>
 </span></span></code></pre></div><ol start="4">
 <li>Create an object to hold the PdfMerger class.
 <code>merger = PdfMerger()</code></li>
-<li>Loop over the pdf files :</li>
+<li>Loop over the pdf files. Use <code>append</code> method to attach files in consecutive order.</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">for</span> pdf <span style="color:#f92672">in</span> [<span style="color:#e6db74">&#34;file1.pdf&#34;</span>, <span style="color:#e6db74">&#34;file2.pdf&#34;</span>, <span style="color:#e6db74">&#34;file3.pdf&#34;</span>, <span style="color:#e6db74">&#34;file4.pdf&#34;</span>]:
 </span></span><span style="display:flex;"><span>    merger<span style="color:#f92672">.</span>append(pdf)
 </span></span></code></pre></div><ol start="5">
-<li>Create a new pdf file with merger.write</li>
+<li>Create a new pdf file using <code>write()</code> method on the merger object:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>merger<span style="color:#f92672">.</span>write(<span style="color:#e6db74">&#34;my-new-merged-file.pdf&#34;</span>)
 </span></span></code></pre></div><ol start="6">
@@ -217,10 +222,15 @@ I&rsquo;m using Python version 3.</p>
 </span></span><span style="display:flex;"><span>   merger<span style="color:#f92672">.</span>append(pdf)
 </span></span><span style="display:flex;"><span>merger<span style="color:#f92672">.</span>write(<span style="color:#e6db74">&#34;my-new-merged-file.pdf&#34;</span>)
 </span></span><span style="display:flex;"><span>merger<span style="color:#f92672">.</span>close()
-</span></span></code></pre></div><ul class="pa0">
+</span></span></code></pre></div><p>This simple code snippet can be enhanced further according to the requirements.</p>
+<ul class="pa0">
   
    <li class="list di">
      <a href="/tags/python/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/python3/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python3</a>
    </li>
   
    <li class="list di">
@@ -243,12 +253,23 @@ I&rsquo;m using Python version 3.</p>
 
 
 
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/css-animation-tutorial/">CSS Animation Tutorial</a>
+        </li>
+	    
+    </ul>
+</div>
+
 </aside>
 
   </article>
 
     </main>
-    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+    <footer class="bg-navy bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
   <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://luxury-mermaid-2fc6e2.netlify.app/" >
     &copy;  Tech Scribe 2022 

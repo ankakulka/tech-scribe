@@ -13,7 +13,17 @@
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       
       <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/</guid>
-      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice. In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program. This method is much quicker and cheaper (all the tools used here are free).</description>
+      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free.</description>
+    </item>
+    
+    <item>
+      <title>CSS Animation Tutorial</title>
+      <link>https://luxury-mermaid-2fc6e2.netlify.app/posts/css-animation-tutorial/</link>
+      <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
+      
+      <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/css-animation-tutorial/</guid>
+      <description>Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display. Thanks to the animation features in CSS3 we can create simple (yet enticing!</description>
     </item>
     
   </channel>

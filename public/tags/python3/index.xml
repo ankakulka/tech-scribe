@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PDF on Tech Scribe</title>
-    <link>https://luxury-mermaid-2fc6e2.netlify.app/tags/pdf/</link>
-    <description>Recent content in PDF on Tech Scribe</description>
+    <title>python3 on Tech Scribe</title>
+    <link>https://luxury-mermaid-2fc6e2.netlify.app/tags/python3/</link>
+    <description>Recent content in python3 on Tech Scribe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://luxury-mermaid-2fc6e2.netlify.app/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://luxury-mermaid-2fc6e2.netlify.app/tags/python3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merge PDFs Using Python</title>
       <link>https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/</link>

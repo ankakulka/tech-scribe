@@ -4,7 +4,7 @@ date: 2022-11-30T11:47:12+01:00
 draft: false
 show_reading_time: true
 featured_image: "/images/snake-selfcanibalising.png"
-tags: ['python','python3' 'PDF', 'coding']
+tags: ['python','python3', 'PDF', 'coding']
 ---
 
 # Merge PDFs Using Python
@@ -57,3 +57,5 @@ for pdf in ["file1.pdf", "file2.pdf", "file3.pdf", "file4.pdf"]:
 merger.write("my-new-merged-file.pdf")
 merger.close()
  ```
+
+This simple code snippet can be enhanced further according to the requirements.
