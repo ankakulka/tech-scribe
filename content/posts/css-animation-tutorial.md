@@ -36,7 +36,7 @@ SVGs are human-readable, some basic SVG elements included in my image are
   `<circle> <path> <line> `
 To find out more about SVGs, check out this page.
 
-## Head over to the CSS section
+## Using CSS to animate
 
 The first thing I want to do is to make sure that my image sits perfectly in the middle of the screen - I can reference the SVG directly through the CSS rule
 
@@ -45,11 +45,11 @@ svg {
     position: absolute;
     margin: auto;
 }
-
 ```
 
-The next steps will explain how I animated individual parts of the image.
-Animating the circle
+The next steps will explain how to animate individual parts of the image.
+
+### Animating the circle
 I'll start with the outermost layer, the circle. There's only one element in this image so I can use this as a selector without adding the element id.
 
 ```css
@@ -85,8 +85,7 @@ I have set the opacity to 0 in the first section so the shape is completely invi
 
 ## Animating with `stroke-dashoffset` property
 
-When my animation starts, it looks as if a line was running on the circumference of the circle. To achieve this effect, I used 
-'stroke-dashoffset' property.  A dashed stroke can appear like this:
+When my animation starts, it looks as if a line was running on the circumference of the circle. To achieve this effect, I used 'stroke-dashoffset' property.  
 
 
 However, it can also appear as a continuous line if the dashes are set to the length wider than the element. 
@@ -118,4 +117,4 @@ Want to learn more about SVGs? Head over to those links
 JavaScript on SVGs
 
 
-My pen : https://codepen.io/anka/pen/pJROva
+(My pen)[https://codepen.io/anka/pen/pJROva] 

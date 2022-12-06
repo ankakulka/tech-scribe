@@ -39,7 +39,7 @@
 <meta itemprop="name" content="CSS Animation Tutorial">
 <meta itemprop="description" content="Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display. Thanks to the animation features in CSS3 we can create simple (yet enticing!"><meta itemprop="datePublished" content="2022-11-29T16:02:35+01:00" />
 <meta itemprop="dateModified" content="2022-11-29T16:02:35+01:00" />
-<meta itemprop="wordCount" content="923">
+<meta itemprop="wordCount" content="912">
 <meta itemprop="keywords" content="CSS,SVG,animation,coding," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="CSS Animation Tutorial"/>
 <meta name="twitter:description" content="Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display. Thanks to the animation features in CSS3 we can create simple (yet enticing!"/>
@@ -174,7 +174,7 @@
       
       
         <span class="f6 mv4 dib tracked"> - 5 minutes read </span>
-        <span class="f6 mv4 dib tracked"> - 923 words </span>
+        <span class="f6 mv4 dib tracked"> - 912 words </span>
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="why-create-svg-animations-using-css">Why create SVG animations using CSS?</h1>
@@ -201,15 +201,15 @@ and the main SVG section - make sure you have the closing SVG tag <code>&lt;/svg
 <p>SVGs are human-readable, some basic SVG elements included in my image are
 <code>&lt;circle&gt; &lt;path&gt; &lt;line&gt; </code>
 To find out more about SVGs, check out this page.</p>
-<h2 id="head-over-to-the-css-section">Head over to the CSS section</h2>
+<h2 id="using-css-to-animate">Using CSS to animate</h2>
 <p>The first thing I want to do is to make sure that my image sits perfectly in the middle of the screen - I can reference the SVG directly through the CSS rule</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">svg</span> {
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">position</span>: <span style="color:#66d9ef">absolute</span>;
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">margin</span>: <span style="color:#66d9ef">auto</span>;
 </span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div><p>The next steps will explain how I animated individual parts of the image.
-Animating the circle
-I&rsquo;ll start with the outermost layer, the circle. There&rsquo;s only one element in this image so I can use this as a selector without adding the element id.</p>
+</span></span></code></pre></div><p>The next steps will explain how to animate individual parts of the image.</p>
+<h3 id="animating-the-circle">Animating the circle</h3>
+<p>I&rsquo;ll start with the outermost layer, the circle. There&rsquo;s only one element in this image so I can use this as a selector without adding the element id.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">svg</span> <span style="color:#f92672">circle</span> {
 </span></span><span style="display:flex;"><span>    <span style="color:#66d9ef">animation</span>: <span style="color:#66d9ef">circle</span><span style="color:#f92672">-</span><span style="color:#66d9ef">outline</span> <span style="color:#ae81ff">10</span><span style="color:#66d9ef">s</span> <span style="color:#66d9ef">alternate</span> <span style="color:#66d9ef">infinite</span>;
 </span></span><span style="display:flex;"><span>}
@@ -233,8 +233,7 @@ My animation lasts 10 seconds - I wanted to achieve a soothing effect, rather th
 </span></span><span style="display:flex;"><span>    }
 </span></span></code></pre></div><p>I have set the opacity to 0 in the first section so the shape is completely invisible, and to 1 which means it is fully visible (the values between 0-1 can be used or %). As the whole animation lasts 10 seconds, the image slowly appears on the screen, then slowly disappears as the animation is played back in alternating cycles. Any SVG or HTML element can be animated in this way. You can fine-tune your animation by adding other properties such as animation-timing-function which allows you the set the speed of the animation. Find out more at W3schools or Mozilla Docs.</p>
 <h2 id="animating-with-stroke-dashoffset-property">Animating with <code>stroke-dashoffset</code> property</h2>
-<p>When my animation starts, it looks as if a line was running on the circumference of the circle. To achieve this effect, I used
-&lsquo;stroke-dashoffset&rsquo; property.  A dashed stroke can appear like this:</p>
+<p>When my animation starts, it looks as if a line was running on the circumference of the circle. To achieve this effect, I used &lsquo;stroke-dashoffset&rsquo; property.</p>
 <p>However, it can also appear as a continuous line if the dashes are set to the length wider than the element.</p>
 <p>So I will only animate paths, rather than the whole element.  I have initially set the &lsquo;stroke-dashoffset&rsquo; property to 1400 so that a continuous line appears at the beginning of the animation.</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span><span style="color:#f92672">svg</span> <span style="color:#f92672">circle</span> {
@@ -253,7 +252,7 @@ My animation lasts 10 seconds - I wanted to achieve a soothing effect, rather th
 </span></span></code></pre></div><p>Want to learn more about SVGs? Head over to those links
 @keyframers - Animate text on a scroll
 JavaScript on SVGs</p>
-<p>My pen : <a href="https://codepen.io/anka/pen/pJROva">https://codepen.io/anka/pen/pJROva</a></p>
+<p>(My pen)[https://codepen.io/anka/pen/pJROva]</p>
 <ul class="pa0">
   
    <li class="list di">
@@ -289,7 +288,11 @@ JavaScript on SVGs</p>
         <li><a href="#basic-svg-shapes">Basic SVG shapes</a></li>
       </ul>
     </li>
-    <li><a href="#head-over-to-the-css-section">Head over to the CSS section</a></li>
+    <li><a href="#using-css-to-animate">Using CSS to animate</a>
+      <ul>
+        <li><a href="#animating-the-circle">Animating the circle</a></li>
+      </ul>
+    </li>
     <li><a href="#animating-the-opacity">Animating the opacity</a></li>
     <li><a href="#animating-with-stroke-dashoffset-property">Animating with <code>stroke-dashoffset</code> property</a></li>
   </ul>
