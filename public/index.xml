@@ -23,7 +23,7 @@ In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple file
       <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
       
       <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/css-animation-tutorial/</guid>
-      <description>Create scalable web animations using just CSS Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display.</description>
+      <description>Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display.</description>
     </item>
     
     <item>
