@@ -208,12 +208,12 @@ You won&rsquo;t have to specify the full path for each file.</li>
 </span></span></code></pre></div><ol start="4">
 <li>Create an object to hold the PdfMerger class.
 <code>merger = PdfMerger()</code></li>
-<li>Loop over the pdf files. Use <code>append</code> method to attach files in consecutive order.</li>
+<li>Loop over the PDF files. Use <code>append</code> method to attach files in consecutive order.</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">for</span> pdf <span style="color:#f92672">in</span> [<span style="color:#e6db74">&#34;file1.pdf&#34;</span>, <span style="color:#e6db74">&#34;file2.pdf&#34;</span>, <span style="color:#e6db74">&#34;file3.pdf&#34;</span>, <span style="color:#e6db74">&#34;file4.pdf&#34;</span>]:
 </span></span><span style="display:flex;"><span>    merger<span style="color:#f92672">.</span>append(pdf)
 </span></span></code></pre></div><ol start="5">
-<li>Create a new pdf file using <code>write()</code> method on the merger object:</li>
+<li>Create a new PDF file using <code>write()</code> method on the merger object:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>merger<span style="color:#f92672">.</span>write(<span style="color:#e6db74">&#34;my-new-merged-file.pdf&#34;</span>)
 </span></span></code></pre></div><ol start="6">

@@ -44,8 +44,6 @@ merger.write("my-new-merged-file.pdf")
 merger.close()
 ```
 
-
-
 The resulting Python code:
 
  ```python
