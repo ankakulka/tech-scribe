@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>legibility on Tech Scribe</title>
-    <link>https://luxury-mermaid-2fc6e2.netlify.app/tags/legibility/</link>
+    <link>https://tech-scribe.netlify.app/tags/legibility/</link>
     <description>Recent content in legibility on Tech Scribe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:42:13 +0100</lastBuildDate><atom:link href="https://luxury-mermaid-2fc6e2.netlify.app/tags/legibility/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 15:42:13 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/legibility/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Readability</title>
-      <link>https://luxury-mermaid-2fc6e2.netlify.app/posts/readability/</link>
+      <link>https://tech-scribe.netlify.app/posts/readability/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
       
-      <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/readability/</guid>
+      <guid>https://tech-scribe.netlify.app/posts/readability/</guid>
       <description>Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
 A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable.</description>
     </item>

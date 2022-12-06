@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PDF on Tech Scribe</title>
-    <link>https://luxury-mermaid-2fc6e2.netlify.app/tags/pdf/</link>
+    <link>https://tech-scribe.netlify.app/tags/pdf/</link>
     <description>Recent content in PDF on Tech Scribe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://luxury-mermaid-2fc6e2.netlify.app/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/pdf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merge PDFs Using Python</title>
-      <link>https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/</link>
+      <link>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       
-      <guid>https://luxury-mermaid-2fc6e2.netlify.app/posts/merge-pdfs-using-python/</guid>
+      <guid>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</guid>
       <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
 In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free.</description>
     </item>

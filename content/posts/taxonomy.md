@@ -5,6 +5,7 @@ draft: false
 show_reading_time: true
 featured_image: "/images/Lost-Diver.png"
 tags: ['taxonomy','categories', 'tags']
+toc: true
 ---
 
 # Taxonomy 

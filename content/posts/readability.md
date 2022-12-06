@@ -5,6 +5,7 @@ draft: false
 show_reading_time: true
 featured_image: "/images/comfy.png"
 tags: ['readability', 'legibility', 'setting text', 'layout']
+toc: true
 ---
 
 Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished. 
