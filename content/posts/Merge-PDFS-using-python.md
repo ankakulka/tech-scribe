@@ -30,12 +30,12 @@ from PyPDF import PdfMerger
 ```
 4. Create an object to hold the PdfMerger class.
 `merger = PdfMerger()`
-4. Loop over the pdf files. Use `append` method to attach files in consecutive order.
+4. Loop over the PDF files. Use `append` method to attach files in consecutive order.
 ```python
 for pdf in ["file1.pdf", "file2.pdf", "file3.pdf", "file4.pdf"]:
     merger.append(pdf)
 ```
-5. Create a new pdf file using `write()` method on the merger object:
+5. Create a new PDF file using `write()` method on the merger object:
 ```python
 merger.write("my-new-merged-file.pdf")
 ```
