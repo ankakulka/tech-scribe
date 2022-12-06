@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tech-scribe.netlify.app/</loc>
+    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://tech-scribe.netlify.app/tags/coding/</loc>
     <lastmod>2022-11-30T11:47:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -28,11 +33,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tech-scribe.netlify.app/tags/</loc>
-    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tech-scribe.netlify.app/</loc>
     <lastmod>2022-11-30T11:47:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
