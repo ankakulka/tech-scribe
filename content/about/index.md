@@ -2,6 +2,7 @@
 title: "About"
 description: "A few words about me"
 featured_image: '/images/writing-desk.png'
+toc: true
 menu:
   main:
     weight: 1

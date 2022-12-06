@@ -39,7 +39,7 @@
 <meta itemprop="name" content="REST or SOAP">
 <meta itemprop="description" content="First of all, let us consider whether we can compare those web services. SOAP (Simple Object Access Protocol), as the full name suggests, is a protocol. On the other hand, REST is an architectural style. It allows more flexibility and is considered easier to implement. RESTful applications have become ubiquitous in recent years, with SOAP web services lagging behind. There is no simple answer to whether one is ‘better’ than the other - it depends on the use case."><meta itemprop="datePublished" content="2022-02-02T12:01:28+01:00" />
 <meta itemprop="dateModified" content="2022-02-02T12:01:28+01:00" />
-<meta itemprop="wordCount" content="516">
+<meta itemprop="wordCount" content="509">
 <meta itemprop="keywords" content="REST,SOAP,API," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="REST or SOAP"/>
 <meta name="twitter:description" content="First of all, let us consider whether we can compare those web services. SOAP (Simple Object Access Protocol), as the full name suggests, is a protocol. On the other hand, REST is an architectural style. It allows more flexibility and is considered easier to implement. RESTful applications have become ubiquitous in recent years, with SOAP web services lagging behind. There is no simple answer to whether one is ‘better’ than the other - it depends on the use case."/>
@@ -181,7 +181,7 @@
       
       
         <span class="f6 mv4 dib tracked"> - 3 minutes read </span>
-        <span class="f6 mv4 dib tracked"> - 516 words </span>
+        <span class="f6 mv4 dib tracked"> - 509 words </span>
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>First of all, let us consider whether we can compare those web services.
@@ -194,8 +194,8 @@ it depends on the use case.</p>
 <h2 id="about-soap">About SOAP</h2>
 <p>Some use cases where SOAP would be a preferred choice include large-scale enterprise
 projects where reliability and formal contract are of paramount importance and for
-ACID-compliant transactions. As SOAP works in a synchronous way, it is a better choice for
-scenarios where the client requires to know the status of the web service in a very short
+ACID-compliant transactions. As SOAP works in synchronously, it is a better choice for
+scenarios where the client needs to know the status of the web service in a very short
 time.</p>
 <h3 id="web-protocols">Web protocols</h3>
 <p>By implementing SOAP, it is possible to use a different protocol for messaging than HTTP, including:</p>
@@ -213,8 +213,8 @@ In either case, it ensures the clarity and predictability of the service.</p>
 <p>REST stands for <strong>RE</strong>presantational State Transfer. Web services conforming to the REST
 style are known as RESTful.
 These APIs are <strong>stateless</strong> so each request is independent of
-another. This feature makes REST scalable and easy to cache.
-Other characteristics required for an APi to be considered RESTful:</p>
+another. This feature makes REST <strong>scalable</strong> and <strong>easy to cache</strong>.
+Other characteristics required for an API to be considered RESTful:</p>
 <ul>
 <li>uniform interface,</li>
 <li>client-server decoupling,</li>
@@ -222,7 +222,7 @@ Other characteristics required for an APi to be considered RESTful:</p>
 </ul>
 <h3 id="why-is-rest-so-popular">Why is REST so popular?</h3>
 <p>The rise of RESTful APIs is tied to cloud computing and microservices. REST is faster and
-more efficient than SOAP, multiple response formats are also possible — JSON, HTML,
+considered more efficient than SOAP, multiple response formats are also possible — JSON, HTML,
 XML, plain text. This has also contributed to the popularity of REST in recent years.</p>
 <h2 id="security-concerns">Security concerns</h2>
 <p>As SOAP is much stricter, it is a preferable choice for applications where <strong>security</strong> is crucial.
@@ -237,8 +237,12 @@ when implementing it with JavaScript. Using Java with REST was until
 recently unwieldy. Java 11 offers fully asynchronous HTTP/1.1 implementation.</p>
 <h2 id="summary">Summary</h2>
 <p>To sum up, there is no clear winner and the best choice depends on the scenario.
-As REST has become the most popular choice in recent years, it is important to consider other factors such as security, which programming language is going to be used and whether
-a synchronous way might be required to provide a more stable service.</p>
+As REST has become the most popular choice in the recent years, it is important to consider other factors such as:</p>
+<ul>
+<li>security,</li>
+<li>which programming language is going to be used,</li>
+<li>shoudl the service work synchronously or asynchronously?</li>
+</ul>
 <h2 id="references">References</h2>
 <ul>
 <li><a href="https://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm">Roy Fielding, Architectural Styles and the Design of Network-based Software Architectures</a></li>
