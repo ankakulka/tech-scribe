@@ -11,15 +11,19 @@ menu:
 
 # Who am I?
 
-I am an experienced Technical writer, fluent in written and spoken English. I am familiar with various tools used to create documentation and the best practices of content creation. 
+I am an experienced Technical writer, fluent in written and spoken English, familiar with various tools used to create documentation and the best practices of content creation. 
 
 Some of the technologies I have worked with:
 - Version Control: git (GitHub and BitBucket)
-- Content Management Tools: Paligo, WordPress  
+- Content Management Tools: Paligo, Cosima 
 
 I am not afraid of plunging into new environments -  whether literally or figuratively through learning new technologies. 
 
-[Evil Twin game](https://friendly-meringue-6e4eeb.netlify.app/)
+During my studies,  I developed a working prototype of a browser-based game with JavaScript - you can try it out by following this link: [Evil Twin game](https://friendly-meringue-6e4eeb.netlify.app/)
+
+To improve my productivity, and to be able to automate routine tasks, I am currently learning Python.
+ See my post [Merge-PDFs-using-Python](https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/).
+
 
 ## Education
 
@@ -51,7 +55,7 @@ LinkedIn Learning *Oct. 2019*
 ## Work experience
 
 **Technical Writer**  <br />  
-XTM *Sep. 2020 ― Present* 
+XTM *Sep. 2020 ― Mar. 2022* 
 
 - Created and maintained various technical content including:  Knowledge Base articles, software manuals and release notes 
 - Content strategy/Information architecture: I re-structured existing documentation to make content re-usable and more user-friendly 

@@ -23,12 +23,10 @@ When working in a desktop publishing programs such as InDesign, you can control 
 
 ...and so should be your text. 
 
-
 Text formatting on the web got much better in recent years, also CSS now offers much more flexibility. Yet we still see some usual offenders:
 - line length too long, 
 - too much line spacing (or too little),
 - center-justified text.
-
 
 Examples from the New Yorker, The Times, and The Guardian online versions illustrate how to solve that problem: A lot of white space is added to make the line shorter. If a line length is too long, your eyes start trailing off, making reading harder. 
 
