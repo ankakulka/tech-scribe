@@ -13,7 +13,7 @@
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       
       <guid>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</guid>
-      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.
 In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free.</description>
     </item>
     
@@ -24,15 +24,6 @@ In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple file
       
       <guid>https://tech-scribe.netlify.app/posts/css-animation-tutorial/</guid>
       <description>Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display.</description>
-    </item>
-    
-    <item>
-      <title>Taxonomy</title>
-      <link>https://tech-scribe.netlify.app/posts/taxonomy/</link>
-      <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/taxonomy/</guid>
-      <description>Taxonomy Before you start: why should you create a taxonomy? Let&amp;rsquo;s be blunt: is a taxonomy necessary for your project? Why put extra work and effort into creating a system that many organizations seem to eschew? Let me illustrate with a quote from the kmworld Knowledge workers spend 15 to 35 percent of their time searching for information 40 percent cannot find the information they need on their corporate intranets 15 percent of their time is spent duplicating information that exists but cannot be found If the usability of a system can be improved, the time and effort that has been invested will result in time saved by everyone searching for information.</description>
     </item>
     
     <item>
@@ -60,9 +51,10 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tech-scribe.netlify.app/about/</guid>
-      <description>Who am I? I am an experienced Technical writer, fluent in written and spoken English. I am familiar with various tools used to create documentation and the best practices of content creation.
+      <description>Who am I? I am an experienced Technical writer, fluent in written and spoken English, familiar with various tools used to create documentation and the best practices of content creation.
 Some of the technologies I have worked with:
-Version Control: git (GitHub and BitBucket) Content Management Tools: Paligo, WordPress I am not afraid of plunging into new environments - whether literally or figuratively through learning new technologies.</description>
+Version Control: git (GitHub and BitBucket) Content Management Tools: Paligo, Cosima I am not afraid of plunging into new environments - whether literally or figuratively through learning new technologies.
+During my studies, I developed a working prototype of a browser-based game with JavaScript - you can try it out by following this link: Evil Twin game</description>
     </item>
     
   </channel>

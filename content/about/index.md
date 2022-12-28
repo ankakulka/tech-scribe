@@ -1,7 +1,7 @@
 ---
 title: "About"
 description: "A few words about me"
-featured_image: '/images/writing-desk.png'
+featured_image: '/images/geo_im_1.png'
 toc: true
 menu:
   main:

@@ -3,7 +3,7 @@ title: "REST or SOAP"
 date: 2022-02-02T12:01:28+01:00
 draft: false
 show_reading_time: true
-featured_image: "/images/comfy.png"
+featured_image: "/images/geo_im_5.png"
 tags: ['REST', 'SOAP', 'API']
 toc: true
 ---

@@ -13,7 +13,7 @@
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       
       <guid>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</guid>
-      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to do that: just a few lines of Python code will suffice.
+      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.
 In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free.</description>
     </item>
     
