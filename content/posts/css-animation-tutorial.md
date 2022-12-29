@@ -6,7 +6,7 @@ show_reading_time: true
 tags: ['CSS', 'SVG', 'animation','coding']
 category: Articles
 toc: true
-featured_image: "/images/leaf.svg"
+featured_image: "/images/leaf-lite.png"
 ---
 
 ## Why create SVG animations using CSS?

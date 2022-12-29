@@ -1,25 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
-	
-<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-<!ENTITY ns_svg "http://www.w3.org/2000/svg">
-<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
-]>
-<svg  version="1.1"
-	xmlns="&ns_svg;"
-	xmlns:xlink="&ns_xlink;"
-	xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 width="401" height="401" viewBox="-0.05 -0.072 401 401" enable-background="new -0.05 -0.072 401 401" xml:space="preserve">
-	<defs></defs>
-	<circle fill="none" stroke="#7DFF00" stroke-width="5" cx="200.227" cy="200.227" r="197.727"/>
-	<path class="leaf" fill="none" stroke="#00A33D" stroke-width="10" d="M138.503,41.378c0,0,168.505,77.006,174.613,148.306
-	c6.104,71.302-83.033,97.921-76.926,97.921c6.104,0,17.871,65.182,17.871,65.182l-39.331-11.782l-15.175-48.646
-	c0,0-105.012,28.522-123.938-37.552S138.503,41.378,138.503,41.378"/>
-	<path class="main" fill="none" stroke="#00A33D" stroke-width="5" d="M229.808,324.292c0.119,2.154-32.39-18.042-11.917-69.965
-	c1.704-4.321,3.775-8.863,6.263-13.631c4.097-7.852-0.58-24.465-8.753-38.279c-0.909-1.538-1.862-3.041-2.852-4.493
-	c-10.007-14.692-49.119-26.917-58.197-60.648c-8.529-31.687-14.377-65.793-7.852-65.557"/>
-	<line class="upper" fill="none" stroke="#00A33D" stroke-width="2" x1="183.907" y1="110.643" x2="155.27" y2="139.28"/>
-	<line class="middle" fill="none" stroke="#00A33D" stroke-width="2" x1="232.748" y1="171.893" x2="212.788" y2="198.063"/>
-	<line class="lower" fill="none" stroke="#00A33D" stroke-width="2" x1="172.852" y1="230.093" x2="219.219" y2="249.479"/>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1440 500" style="enable-background:new 0 0 1440 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#001B44;}
+	.st1{fill:none;stroke:#9EEBCF;stroke-width:0.5;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#9EEBCF;stroke-width:2;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#9EEBCF;stroke-width:0.25;stroke-miterlimit:10;}
+</style>
+<rect class="st0" width="1440" height="500"/>
+<circle class="st1" cx="720" cy="250" r="197.7"/>
+<path class="st2" d="M658.3,91.2c0,0,168.5,77,174.6,148.3c6.1,71.3-83,97.9-76.9,97.9s17.9,65.2,17.9,65.2l-39.3-11.8l-15.2-48.6
+	c0,0-105,28.5-123.9-37.6C576.5,238.5,658.3,91.2,658.3,91.2"/>
+<path class="st3" d="M749.6,374.1c0.1,2.2-32.4-18-11.9-70c1.7-4.3,3.8-8.9,6.3-13.6c4.1-7.9-0.6-24.5-8.8-38.3
+	c-0.9-1.5-1.9-3-2.9-4.5c-10-14.7-49.1-26.9-58.2-60.6c-8.5-31.7-14.4-65.8-7.9-65.6"/>
+<line class="st3" x1="703.7" y1="160.4" x2="675" y2="189.1"/>
+<line class="st3" x1="752.5" y1="221.7" x2="732.6" y2="247.8"/>
+<line class="st3" x1="692.6" y1="279.9" x2="739" y2="299.3"/>
 </svg>
