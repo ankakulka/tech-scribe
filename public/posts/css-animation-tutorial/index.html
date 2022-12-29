@@ -39,7 +39,7 @@
 <meta itemprop="name" content="CSS Animation Tutorial">
 <meta itemprop="description" content="Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display."><meta itemprop="datePublished" content="2022-11-29T16:02:35+01:00" />
 <meta itemprop="dateModified" content="2022-11-29T16:02:35+01:00" />
-<meta itemprop="wordCount" content="849">
+<meta itemprop="wordCount" content="850">
 <meta itemprop="keywords" content="CSS,SVG,animation,coding," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="CSS Animation Tutorial"/>
 <meta name="twitter:description" content="Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display."/>
@@ -55,7 +55,7 @@
 
   
   <header class="cover bg-top" style="background-image: url('https://tech-scribe.netlify.app/images/leaf.svg');">
-    <div class="bg-black-60">
+    <div class="bg-black-10">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
     <a href="/" class="f3 fw2 hover-white no-underline white-90 dib">
@@ -181,7 +181,7 @@
       
       
         <span class="f6 mv4 dib tracked"> - 4 minutes read </span>
-        <span class="f6 mv4 dib tracked"> - 849 words </span>
+        <span class="f6 mv4 dib tracked"> - 850 words </span>
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h2 id="why-create-svg-animations-using-css">Why create SVG animations using CSS?</h2>
@@ -195,9 +195,10 @@ I will explain how to create a custom animation to create cool effects.
 You&rsquo;ll need a vector editing program and a text editor.</p>
 </blockquote>
 <p>We&rsquo;ll create the animation directly in the browser, in an online code editor <a href="https://codepen.io/">Codepen</a>.</p>
-<h2 id="create-a-simple-image">Create a simple image</h2>
-<p>This type of animation works best on simple images. I have created mine in Adobe Illustrator but open-source tools such as Inkscape will also do the trick. The most important thing is that you can save it as an SVG file.
-Once you&rsquo;ve created your image as an SVG, open it in a text editor (such as Notepad, SublimeText or VS Code) and then select and copy all into clipboard.</p>
+<h2 id="create-a-simple-vector-image">Create a simple vector image</h2>
+<p>This type of animation works best on simple images. I have created mine in Adobe Illustrator but open-source tools such as Inkscape will also do the trick.
+The most important thing is that you can save it as an SVG file.
+Once you&rsquo;ve saved your image as an SVG, open it in a text editor (such as Notepad, SublimeText or VS Code) and then select and copy all into clipboard.</p>
 <h2 id="create-a-pen-in-codepen">Create a pen in CodePen</h2>
 <p>Codepen is an online editor that allows you to create and share code snippets. I find it particularly useful for working with CSS animation as you can see the effects immediately, rather than having to constantly switch between the text editor and the browser as you would have to do when working locally.
 You don&rsquo;t even need to create an account!</p>
@@ -243,7 +244,7 @@ specifies how the animation will be played: forwards, backwards or in alternate 
 The infinite value specifies the number of times an animation should run. I want mine to run forever but you can also set the animation to just 1 or any other number.</li>
 </ul>
 <ol start="5">
-<li>To animate the opacity, use the @keyframes rule which controls the animation.
+<li>To animate the opacity, use the <code>@keyframes</code> rule which controls the animation.
 This is where the animation takes place:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>    @<span style="color:#66d9ef">keyframes</span> <span style="color:#f92672">circle-outline</span> {
@@ -312,7 +313,7 @@ To find out more check out these links:</p>
       <nav id="TableOfContents">
   <ul>
     <li><a href="#why-create-svg-animations-using-css">Why create SVG animations using CSS?</a></li>
-    <li><a href="#create-a-simple-image">Create a simple image</a></li>
+    <li><a href="#create-a-simple-vector-image">Create a simple vector image</a></li>
     <li><a href="#create-a-pen-in-codepen">Create a pen in CodePen</a>
       <ul>
         <li><a href="#basic-svg-shapes">Basic SVG shapes</a></li>

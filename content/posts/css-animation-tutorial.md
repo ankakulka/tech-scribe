@@ -4,6 +4,7 @@ date: 2022-11-29T16:02:35+01:00
 draft: false
 show_reading_time: true
 tags: ['CSS', 'SVG', 'animation','coding']
+category: Articles
 toc: true
 featured_image: "/images/leaf.svg"
 ---
@@ -22,10 +23,11 @@ Thanks to the animation features in CSS3 we can create simple (yet enticing!) an
  
 We'll create the animation directly in the browser, in an online code editor [Codepen](https://codepen.io/).
 
-## Create a simple image
+## Create a simple vector image
 
-This type of animation works best on simple images. I have created mine in Adobe Illustrator but open-source tools such as Inkscape will also do the trick. The most important thing is that you can save it as an SVG file.
-Once you've created your image as an SVG, open it in a text editor (such as Notepad, SublimeText or VS Code) and then select and copy all into clipboard.
+This type of animation works best on simple images. I have created mine in Adobe Illustrator but open-source tools such as Inkscape will also do the trick. 
+The most important thing is that you can save it as an SVG file.
+Once you've saved your image as an SVG, open it in a text editor (such as Notepad, SublimeText or VS Code) and then select and copy all into clipboard.
 
 ## Create a pen in CodePen
 
@@ -79,7 +81,7 @@ The `animation` shorthand property allows me to define the most important featur
 - `animation-iteration-count`: 
     The infinite value specifies the number of times an animation should run. I want mine to run forever but you can also set the animation to just 1 or any other number.
 
-5. To animate the opacity, use the @keyframes rule which controls the animation. 
+5. To animate the opacity, use the `@keyframes` rule which controls the animation. 
 This is where the animation takes place:
 
 ```css 
