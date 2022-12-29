@@ -42,7 +42,7 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
 <meta itemprop="description" content="Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
 A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable."><meta itemprop="datePublished" content="2022-11-29T15:42:13+01:00" />
 <meta itemprop="dateModified" content="2022-11-29T15:42:13+01:00" />
-<meta itemprop="wordCount" content="467">
+<meta itemprop="wordCount" content="496">
 <meta itemprop="keywords" content="readability,legibility,setting text,layout," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Readability"/>
 <meta name="twitter:description" content="Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
@@ -185,17 +185,17 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
       
       
         <span class="f6 mv4 dib tracked"> - 3 minutes read </span>
-        <span class="f6 mv4 dib tracked"> - 467 words </span>
+        <span class="f6 mv4 dib tracked"> - 496 words </span>
       
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.</p>
 <!-- raw HTML omitted -->
 <p>A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable. So how do you make a text readable, rather than just legible?</p>
 <h2 id="chunking">Chunking</h2>
-<p>A wall of uninterrupted text can put off even the most seasoned readers. Splitting your text into paragraphs helps the reader .
-When working in a desktop publishing programs such as InDesign, you can control <em>exactly</em> the amount of space between the paragraphs.</p>
-<h2 id="your-heart-is-on-your-left-side">Your heart is on your left side</h2>
-<p>&hellip;and so should be your text.</p>
+<p>A wall of uninterrupted text can put off even the most seasoned readers. Splitting your text into paragraphs helps the reader.
+When working in a desktop publishing programs such as InDesign, you can control <em>exactly</em> the amount of space between the paragraphs. For web publications, this can be achieved with CSS.</p>
+<h2 id="getting-the-layout-right">Getting the layout right</h2>
+<p>Your heart is on your left side&hellip;and so should be your text.</p>
 <p>Text formatting on the web got much better in recent years, also CSS now offers much more flexibility. Yet we still see some usual offenders:</p>
 <ul>
 <li>line length too long,</li>
@@ -208,17 +208,22 @@ When working in a desktop publishing programs such as InDesign, you can control 
 </blockquote>
 <p>Many websites still use a full-page layout for the text body, often the text is center-justified, making reading even harder. Your eye needs to ‘anchor’ itself on a straight line of the block of text. Center-justified (aligned) or right-aligned (sometimes called rugged) text is only appropriate for snippets of texts, headlines, and captions. The main body has to be left-aligned, like a mantra: religiously, no exception.</p>
 <p>Adding large margins and splitting the text into smaller columns is a good solution. Columns of text shouldn&rsquo;t be too narrow either, as it will make reading harder.</p>
-<!-- raw HTML omitted -->
-<p><img src="/guardian-article.PNG" alt="Die Zeit article"></p>
-<p>The New Yorker and the Guardian used a similar layout, adding lots of white space to the right.</p>
-<p>Die Zeit text is centered, but it is left-aligned. It also shows that &lsquo;white space&rsquo; does not need to be white. Sometimes also called &rsquo;negative space&rsquo; it might even be pink-ish/beige, as in the case of Financial Times:
-<img src="/ft.PNG" alt="Financial Times"></p>
+<blockquote>
+<p><strong>Tip:</strong> A line should have a minimum of six words - different rules might apply for German and other languages&hellip;</p>
+</blockquote>
+<p><img src="/images/guardian.png" alt="Guardian article"></p>
+<p><img src="/images/new-yorker.png" alt="New Yorker article"></p>
+<p><img src="/images/dieZeit.png" alt="Die Zeit article"></p>
+<p>The New Yorker and the Guardian used a similar layout, adding lots of white space to the right.
+Die Zeit text is centered, but it is left-aligned. It also shows that &lsquo;white space&rsquo; does not need to be white. Sometimes also called &rsquo;negative space&rsquo; it might even be pink-ish/beige, as in the case of Financial Times:
+<img src="/images/ft.png" alt="Financial Times"></p>
 <p>The most important thing is to be able to focus without the clutter of ads and popups distracting from the text.</p>
-<p><img src="/dieZeit.PNG" alt="Die Zeit article"></p>
-<p>The New Yorker text is enhanced by a &lsquo;drop cap&rsquo;: the first letter of the text body is much larger than the rest and takes up an extra line.</p>
-<p><img src="/new-yorker-snip.png" alt="New Yorker article"></p>
-<p>This hiccup from the days of printing adds visual interest. The effect can be achieved with CSS. Chris Coyer explains the technique in CSS tricks.</p>
-<p>Readability Guidelines - Sarah Richards <a href="https://readabilityguidelines.co.uk/">https://readabilityguidelines.co.uk/</a></p>
+<h2 id="adding-visual-interest-to-the-text">Adding visual interest to the text</h2>
+<p>The New Yorker text is enhanced by a &lsquo;drop cap&rsquo;: the first letter of the text body is much larger than the rest and takes up an extra line.
+This hiccup from the days of printing adds visual interest. The effect can be achieved with CSS.</p>
+<h2 id="references">References</h2>
+<p><a href="https://readabilityguidelines.co.uk/">Readability Guidelines - Sarah Richards</a></p>
+<!-- raw HTML omitted -->
 <ul class="pa0">
   
    <li class="list di">
@@ -249,7 +254,9 @@ When working in a desktop publishing programs such as InDesign, you can control 
       <nav id="TableOfContents">
   <ul>
     <li><a href="#chunking">Chunking</a></li>
-    <li><a href="#your-heart-is-on-your-left-side">Your heart is on your left side</a></li>
+    <li><a href="#getting-the-layout-right">Getting the layout right</a></li>
+    <li><a href="#adding-visual-interest-to-the-text">Adding visual interest to the text</a></li>
+    <li><a href="#references">References</a></li>
   </ul>
 </nav>
   </div>

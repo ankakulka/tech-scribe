@@ -16,12 +16,12 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
 
 ## Chunking
 
-A wall of uninterrupted text can put off even the most seasoned readers. Splitting your text into paragraphs helps the reader . 
-When working in a desktop publishing programs such as InDesign, you can control *exactly* the amount of space between the paragraphs.
+A wall of uninterrupted text can put off even the most seasoned readers. Splitting your text into paragraphs helps the reader. 
+When working in a desktop publishing programs such as InDesign, you can control *exactly* the amount of space between the paragraphs. For web publications, this can be achieved with CSS.
 
-## Your heart is on your left side
+## Getting the layout right
 
-...and so should be your text. 
+Your heart is on your left side...and so should be your text. 
 
 Text formatting on the web got much better in recent years, also CSS now offers much more flexibility. Yet we still see some usual offenders:
 - line length too long, 
@@ -36,24 +36,26 @@ Many websites still use a full-page layout for the text body, often the text is 
 
 Adding large margins and splitting the text into smaller columns is a good solution. Columns of text shouldn't be too narrow either, as it will make reading harder. 
 
-<!-- > **Tip:** A line should have a minimum of six words - different rules might apply for German and other languages... -->
+> **Tip:** A line should have a minimum of six words - different rules might apply for German and other languages...
 
-![Die Zeit article](/guardian-article.PNG)
- 
+![Guardian article](/images/guardian.png)
+
+![New Yorker article](/images/new-yorker.png)
+
+![Die Zeit article](/images/dieZeit.png) 
+
 The New Yorker and the Guardian used a similar layout, adding lots of white space to the right. 
-
 Die Zeit text is centered, but it is left-aligned. It also shows that 'white space' does not need to be white. Sometimes also called 'negative space' it might even be pink-ish/beige, as in the case of Financial Times:
-![Financial Times](/ft.PNG)
+![Financial Times](/images/ft.png)
 
  The most important thing is to be able to focus without the clutter of ads and popups distracting from the text.
 
-![Die Zeit article](/dieZeit.PNG)
-
+## Adding visual interest to the text
 
 The New Yorker text is enhanced by a 'drop cap': the first letter of the text body is much larger than the rest and takes up an extra line. 
+This hiccup from the days of printing adds visual interest. The effect can be achieved with CSS. 
 
-![New Yorker article](/new-yorker-snip.png)
-
-This hiccup from the days of printing adds visual interest. The effect can be achieved with CSS. Chris Coyer explains the technique in CSS tricks.
+## References
  
-Readability Guidelines - Sarah Richards https://readabilityguidelines.co.uk/
+[Readability Guidelines - Sarah Richards](https://readabilityguidelines.co.uk/) 
+<!-- Chris Coyer explains the technique in CSS tricks. -->
