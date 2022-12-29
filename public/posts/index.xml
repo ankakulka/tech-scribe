@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Articles on Tech Scribe</title>
+    <title>Posts on Tech Scribe</title>
     <link>https://tech-scribe.netlify.app/posts/</link>
-    <description>Recent content in Articles on Tech Scribe</description>
+    <description>Recent content in Posts on Tech Scribe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 02 Mar 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merge PDFs Using Python</title>
       <link>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</link>
@@ -24,6 +24,15 @@ In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple file
       
       <guid>https://tech-scribe.netlify.app/posts/css-animation-tutorial/</guid>
       <description>Why create SVG animations using CSS? Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly. SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - Scalable Vector Graphics. They will look just as great on a tiny mobile screen as on a huge retina display.</description>
+    </item>
+    
+    <item>
+      <title>Taxonomy</title>
+      <link>https://tech-scribe.netlify.app/posts/taxonomy/</link>
+      <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
+      
+      <guid>https://tech-scribe.netlify.app/posts/taxonomy/</guid>
+      <description>Taxonomy Before you start: why should you create a taxonomy? Let&amp;rsquo;s be blunt: is a taxonomy necessary for your project? Why put extra work and effort into creating a system that many organizations seem to eschew? Let me illustrate with a quote from the kmworld Knowledge workers spend 15 to 35 percent of their time searching for information 40 percent cannot find the information they need on their corporate intranets 15 percent of their time is spent duplicating information that exists but cannot be found If the usability of a system can be improved, the time and effort that has been invested will result in time saved by everyone searching for information.</description>
     </item>
     
     <item>

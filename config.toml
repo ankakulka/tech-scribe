@@ -54,3 +54,6 @@ color = "#6cc644"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
+
+custom_css = [ "custom-dfd.css" ]

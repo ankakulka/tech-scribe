@@ -22,6 +22,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://tech-scribe.netlify.app/posts/</loc>
+    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://tech-scribe.netlify.app/tags/python/</loc>
     <lastmod>2022-11-30T11:47:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -54,6 +59,26 @@
   </url><url>
     <loc>https://tech-scribe.netlify.app/tags/svg/</loc>
     <lastmod>2022-11-29T16:02:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/categories/</loc>
+    <lastmod>2022-11-29T15:48:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/tags/</loc>
+    <lastmod>2022-11-29T15:48:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/taxonomy/</loc>
+    <lastmod>2022-11-29T15:48:34+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/posts/taxonomy/</loc>
+    <lastmod>2022-11-29T15:48:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -104,6 +129,10 @@
   </url><url>
     <loc>https://tech-scribe.netlify.app/tags/soap/</loc>
     <lastmod>2022-02-02T12:01:28+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/index.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
