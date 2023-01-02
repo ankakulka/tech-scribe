@@ -3,6 +3,7 @@ title: "Edit Images Using Python"
 date: 2022-12-18T19:07:18+01:00
 tags: ['python','python3', 'image-editing', 'coding']
 draft: true
+toc: true
 ---
 
 # Edit Images Using Python

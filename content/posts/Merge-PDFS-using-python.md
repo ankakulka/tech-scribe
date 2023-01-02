@@ -5,6 +5,7 @@ draft: false
 show_reading_time: true
 featured_image: "/images/geo_pyta.png"
 tags: ['python','python3', 'PDF', 'coding']
+toc: true
 ---
 
 # Merge PDFs Using Python
