@@ -23,17 +23,19 @@ menu = ['main', 'footer']
 name = "github"
 url = "https://github.com/ankakulka"
 label = "TND GitHub Account"
+color = "#9EEBCF"
 
 [[params.ananke_socials]]
 name = "linkedin"
 url = "https://www.linkedin.com/in/anka-kulczycka/"
 label = "TND LinkedIn Account"
+color = "#9EEBCF"
 
 [[params.ananke_socials]]
 name = "behance"
 url = "https://www.behance.net/annakul"
 label = "TND Behance Account"
-color = "#6cc644"
+color = "#9EEBCF"
 
 [markup]
   [markup.highlight]
@@ -54,5 +56,6 @@ color = "#6cc644"
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+
 
 

@@ -85,8 +85,6 @@ import os
 path = './imgs'
 pathOut = '/maxEnhance'
 
-
-
 for filename in os.listdir(path):
     img = Image.open(f"{path}/{filename}")
     edit = img.filter(ImageFilter.GaussianBlur(radius=25))
