@@ -3,12 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://tech-scribe.netlify.app/</loc>
-    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
+    <lastmod>2023-01-02T15:05:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/posts/enhance-images-using-python/</loc>
+    <lastmod>2023-01-02T15:05:35+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/beginner-python/</loc>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://tech-scribe.netlify.app/tags/coding/</loc>
-    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</loc>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/image-editing/</loc>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/python/</loc>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/python3/</loc>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://tech-scribe.netlify.app/tags/</loc>
+    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -18,21 +53,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://tech-scribe.netlify.app/tags/pdf/</loc>
-    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/python/</loc>
-    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/python3/</loc>
-    <lastmod>2022-11-30T11:47:12+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/</loc>
     <lastmod>2022-11-30T11:47:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

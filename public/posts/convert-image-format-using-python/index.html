@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
-    <title>Readability | Tech Scribe</title>
+    <title>Convert image format using Python | Tech Scribe</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
-A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable.">
+    <meta name="description" content="There&rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
+In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.">
     <meta name="generator" content="Hugo 0.107.0">
     
     
@@ -30,23 +30,23 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
 
     
     
-    <meta property="og:title" content="Readability" />
-<meta property="og:description" content="Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
-A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable." />
+    <meta property="og:title" content="Convert image format using Python" />
+<meta property="og:description" content="There&rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
+In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://tech-scribe.netlify.app/posts/readability/" /><meta property="article:section" content="posts" />
-<meta property="article:published_time" content="2022-11-29T15:42:13+01:00" />
-<meta property="article:modified_time" content="2022-11-29T15:42:13+01:00" />
+<meta property="og:url" content="https://tech-scribe.netlify.app/posts/convert-image-format-using-python/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-12-18T19:07:18+01:00" />
+<meta property="article:modified_time" content="2022-12-18T19:07:18+01:00" />
 
-<meta itemprop="name" content="Readability">
-<meta itemprop="description" content="Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
-A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable."><meta itemprop="datePublished" content="2022-11-29T15:42:13+01:00" />
-<meta itemprop="dateModified" content="2022-11-29T15:42:13+01:00" />
-<meta itemprop="wordCount" content="496">
-<meta itemprop="keywords" content="readability,legibility,setting text,layout," /><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Readability"/>
-<meta name="twitter:description" content="Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.
-A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable."/>
+<meta itemprop="name" content="Convert image format using Python">
+<meta itemprop="description" content="There&rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
+In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters."><meta itemprop="datePublished" content="2022-12-18T19:07:18+01:00" />
+<meta itemprop="dateModified" content="2022-12-18T19:07:18+01:00" />
+<meta itemprop="wordCount" content="275">
+<meta itemprop="keywords" content="python,python3,beginner-python,image-editing,coding," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Convert image format using Python"/>
+<meta name="twitter:description" content="There&rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
+In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters."/>
 
 	
   </head>
@@ -58,7 +58,7 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
   
 
   
-  <header class="cover bg-top" style="background-image: url('https://tech-scribe.netlify.app/images/readability3.png');">
+  <header class="cover bg-top" style="background-image: url('https://tech-scribe.netlify.app/images/geo_im.png');">
     <div class="bg-black-10">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l justify-between items-center center">
@@ -131,7 +131,7 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
 
       <div class="tc-l pv6 ph3 ph4-ns">
         
-          <div class="f2 f1-l fw2 light-green mb0 lh-title">Readability</div>
+          <div class="f2 f1-l fw2 light-green mb0 lh-title">Convert image format using Python</div>
           
         
       </div>
@@ -163,7 +163,7 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
   <div id="sharing" class="mt3 ananke-socials">
     
       
-      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://tech-scribe.netlify.app/posts/readability/&amp;title=Readability" class="ananke-social-link linkedin no-underline" aria-label="share on TND LinkedIn Account">
+      <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https://tech-scribe.netlify.app/posts/convert-image-format-using-python/&amp;title=Convert%20image%20format%20using%20Python" class="ananke-social-link linkedin no-underline" aria-label="share on TND LinkedIn Account">
         
         <span class="icon"> <svg style="enable-background:new 0 0 65 65;" version="1.1" viewBox="0 0 65 65"  xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <path d="M50.837,48.137V36.425c0-6.275-3.35-9.195-7.816-9.195  c-3.604,0-5.219,1.983-6.119,3.374V27.71h-6.79c0.09,1.917,0,20.427,0,20.427h6.79V36.729c0-0.609,0.044-1.219,0.224-1.655  c0.49-1.22,1.607-2.483,3.482-2.483c2.458,0,3.44,1.873,3.44,4.618v10.929H50.837z M22.959,24.922c2.367,0,3.842-1.57,3.842-3.531  c-0.044-2.003-1.475-3.528-3.797-3.528s-3.841,1.524-3.841,3.528c0,1.961,1.474,3.531,3.753,3.531H22.959z M34,64  C17.432,64,4,50.568,4,34C4,17.431,17.432,4,34,4s30,13.431,30,30C64,50.568,50.568,64,34,64z M26.354,48.137V27.71h-6.789v20.427  H26.354z" style="fill-rule:evenodd;clip-rule:evenodd;"/>
@@ -175,71 +175,69 @@ A ‘readable’ text invites you to read. It goes beyond simple legibility. Usu
   </div>
 
 
-      <h1 class="f1 athelas mt3 mb1">Readability</h1>
+      <h1 class="f1 athelas mt3 mb1">Convert image format using Python</h1>
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2022-11-29T15:42:13+01:00">November 29, 2022</time>
+      <time class="f6 mv4 dib tracked" datetime="2022-12-18T19:07:18+01:00">December 18, 2022</time>
       
 
       
       
-        <span class="f6 mv4 dib tracked"> - 3 minutes read </span>
-        <span class="f6 mv4 dib tracked"> - 496 words </span>
-      
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.</p>
-<!-- raw HTML omitted -->
-<p>A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable. So how do you make a text readable, rather than just legible?</p>
-<h2 id="chunking">Chunking</h2>
-<p>A wall of uninterrupted text can put off even the most seasoned readers. Splitting your text into paragraphs helps the reader.
-When working in a desktop publishing programs such as InDesign, you can control <em>exactly</em> the amount of space between the paragraphs. For web publications, this can be achieved with CSS.</p>
-<h2 id="getting-the-layout-right">Getting the layout right</h2>
-<p>Your heart is on your left side&hellip;and so should be your text.</p>
-<p>Text formatting on the web got much better in recent years, also CSS now offers much more flexibility. Yet we still see some usual offenders:</p>
-<ul>
-<li>line length too long,</li>
-<li>too much line spacing (or too little),</li>
-<li>center-justified text.</li>
-</ul>
-<p>Examples from the New Yorker, The Times, and The Guardian online versions illustrate how to solve that problem: A lot of white space is added to make the line shorter. If a line length is too long, your eyes start trailing off, making reading harder.</p>
-<blockquote>
-<p><strong>Tip:</strong> A line of 30-40 characters and spaces is a comfortable line length.</p>
-</blockquote>
-<p>Many websites still use a full-page layout for the text body, often the text is center-justified, making reading even harder. Your eye needs to ‘anchor’ itself on a straight line of the block of text. Center-justified (aligned) or right-aligned (sometimes called rugged) text is only appropriate for snippets of texts, headlines, and captions. The main body has to be left-aligned, like a mantra: religiously, no exception.</p>
-<p>Adding large margins and splitting the text into smaller columns is a good solution. Columns of text shouldn&rsquo;t be too narrow either, as it will make reading harder.</p>
-<blockquote>
-<p><strong>Tip:</strong> A line should have a minimum of six words - different rules might apply for German and other languages&hellip;</p>
-</blockquote>
-<p><img src="/images/guardian.png" alt="Guardian article"></p>
-<p><img src="/images/new-yorker.png" alt="New Yorker article"></p>
-<p><img src="/images/dieZeit.png" alt="Die Zeit article"></p>
-<p>The New Yorker and the Guardian used a similar layout, adding lots of white space to the right.
-Die Zeit text is centered, but it is left-aligned. It also shows that &lsquo;white space&rsquo; does not need to be white. Sometimes also called &rsquo;negative space&rsquo; it might even be pink-ish/beige, as in the case of Financial Times:
-<img src="/images/ft.png" alt="Financial Times"></p>
-<p>The most important thing is to be able to focus without the clutter of ads and popups distracting from the text.</p>
-<h2 id="adding-visual-interest-to-the-text">Adding visual interest to the text</h2>
-<p>The New Yorker text is enhanced by a &lsquo;drop cap&rsquo;: the first letter of the text body is much larger than the rest and takes up an extra line.
-This hiccup from the days of printing adds visual interest. The effect can be achieved with CSS.</p>
-<h2 id="references">References</h2>
-<p><a href="https://readabilityguidelines.co.uk/">Readability Guidelines - Sarah Richards</a></p>
-<!-- raw HTML omitted -->
-<ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>There&rsquo;s plenty of image editing software out there, most notably Photoshop -
+but did you know you can also edit images using Python?
+While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop,
+it does help you to perform certain actions <strong>faster</strong> - and completely free.</p>
+<p>In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library.
+You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.</p>
+<h3 id="installation">Installation</h3>
+<p>First, we need to prepare our paints and brushes, in our case it means installing the Pillow library. <!-- raw HTML omitted --></p>
+<p>In your terminal type:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>pip install Pillow
+</span></span></code></pre></div><h3 id="convert-image-format">Convert image format</h3>
+<p>Converting the image format in the Pillow library is quick and easy.
+In this example I&rsquo;ll show you how to convert a JPEG image to a PNG, but you can
+also convert to other popular image formats such as BMP, GIF, EPS, or TIFF.</p>
+<p><a href="https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html">Check out the docs</a> for the full list of supported formats.</p>
+<ol>
+<li>In your Python file, import <code>Image</code> from the Pillow (<code>PIL</code>) library.
+The <code>Image</code> module contains a class of the same name.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
+</span></span></code></pre></div><ol start="2">
+<li>Create an Image object and call the open method on it. Make sure that you add the correct path for the image location - my image is in the same folder as my Python file.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>img <span style="color:#f92672">=</span> Image<span style="color:#f92672">.</span>open(<span style="color:#e6db74">&#39;some-pic.jpg&#39;</span>)
+</span></span></code></pre></div><ol start="3">
+<li>Save as a png image: specify the file name and the extention (format) to save the image in the same folder. You can also save the image in a different location by adding the file path.</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>im<span style="color:#f92672">.</span>save(<span style="color:#e6db74">&#39;converted-pic.png&#39;</span>)
+</span></span></code></pre></div><p>The resulting Python code:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">import</span> Image
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>img <span style="color:#f92672">=</span> Image<span style="color:#f92672">.</span>open(<span style="color:#e6db74">&#39;some-pic.jpg&#39;</span>)
+</span></span><span style="display:flex;"><span>im<span style="color:#f92672">.</span>save(<span style="color:#e6db74">&#39;converted-pic.png&#39;</span>)
+</span></span></code></pre></div><ul class="pa0">
   
    <li class="list di">
-     <a href="/tags/readability/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">readability</a>
+     <a href="/tags/python/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/legibility/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">legibility</a>
+     <a href="/tags/python3/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python3</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/setting-text/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">setting text</a>
+     <a href="/tags/beginner-python/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">beginner-python</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/layout/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">layout</a>
+     <a href="/tags/image-editing/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">image-editing</a>
+   </li>
+  
+   <li class="list di">
+     <a href="/tags/coding/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">coding</a>
    </li>
   
 </ul>
@@ -253,16 +251,33 @@ This hiccup from the days of printing adds visual interest. The effect can be ac
     <p class="f5 b mb3">What&#39;s in this posts</p>
       <nav id="TableOfContents">
   <ul>
-    <li><a href="#chunking">Chunking</a></li>
-    <li><a href="#getting-the-layout-right">Getting the layout right</a></li>
-    <li><a href="#adding-visual-interest-to-the-text">Adding visual interest to the text</a></li>
-    <li><a href="#references">References</a></li>
+    <li>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+        <li><a href="#convert-image-format">Convert image format</a></li>
+      </ul>
+    </li>
   </ul>
 </nav>
   </div>
 
 
 
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="/posts/merge-pdfs-using-python/">Merge PDFs Using Python</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="/posts/css-animation-tutorial/">CSS Animation Tutorial</a>
+        </li>
+	    
+    </ul>
+</div>
 
 </aside>
 
