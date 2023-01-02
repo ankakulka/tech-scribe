@@ -3,7 +3,7 @@ title: "Readability"
 date: 2022-11-29T15:42:13+01:00
 draft: false
 show_reading_time: true
-featured_image: "/images/readability.png"
+featured_image: "/images/readability3.png"
 tags: ['readability', 'legibility', 'setting text', 'layout']
 toc: true
 ---
