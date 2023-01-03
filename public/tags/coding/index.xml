@@ -6,17 +6,7 @@
     <description>Recent content in coding on Tech Scribe</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/coding/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Convert image format using Python</title>
-      <link>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</link>
-      <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</guid>
-      <description>There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
-In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.</description>
-    </item>
-    
+    <lastBuildDate>Wed, 30 Nov 2022 11:47:12 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/coding/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Merge PDFs Using Python</title>
       <link>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</link>
