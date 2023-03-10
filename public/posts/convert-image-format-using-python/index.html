@@ -42,7 +42,7 @@ In this introductory tutorial I&rsquo;ll show you how to convert image format us
 <meta itemprop="description" content="There&rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
 In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters."><meta itemprop="datePublished" content="2022-12-18T19:07:18+01:00" />
 <meta itemprop="dateModified" content="2022-12-18T19:07:18+01:00" />
-<meta itemprop="wordCount" content="275">
+<meta itemprop="wordCount" content="296">
 <meta itemprop="keywords" content="python,python3,beginner-python,image-editing,coding," /><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Convert image format using Python"/>
 <meta name="twitter:description" content="There&rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
@@ -187,26 +187,36 @@ In this introductory tutorial I&rsquo;ll show you how to convert image format us
     </header>
     <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p>There&rsquo;s plenty of image editing software out there, most notably Photoshop -
 but did you know you can also edit images using Python?
-While Pillow, the Python library used in this tutorial, won&rsquo;t replace Photoshop,
+While <a href="https://pillow.readthedocs.io/en/stable/index.html#">Pillow</a>, the Python library used in this tutorial, won&rsquo;t replace Photoshop,
 it does help you to perform certain actions <strong>faster</strong> - and completely free.</p>
 <p>In this introductory tutorial I&rsquo;ll show you how to convert image format using Pillow library.
 You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.</p>
-<h3 id="installation">Installation</h3>
+<p>I&rsquo;m using Python version 3.</p>
+<blockquote>
+<p><strong>Tip!</strong> Some basic Python knowldege required!</p>
+</blockquote>
+<h3 id="install-pillow">Install Pillow</h3>
 <p>First, we need to prepare our paints and brushes, in our case it means installing the Pillow library. <!-- raw HTML omitted --></p>
 <p>In your terminal type:</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>pip install Pillow
 </span></span></code></pre></div><h3 id="convert-image-format">Convert image format</h3>
 <p>Converting the image format in the Pillow library is quick and easy.
-In this example I&rsquo;ll show you how to convert a JPEG image to a PNG, but you can
-also convert to other popular image formats such as BMP, GIF, EPS, or TIFF.</p>
-<p><a href="https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html">Check out the docs</a> for the full list of supported formats.</p>
+In this example I&rsquo;ll show you how to convert a <strong>JPEG</strong> image to a <strong>PNG</strong>.</p>
+<p>You can also use Pillow to convert to and from other popular image formats such as:</p>
+<ul>
+<li>BMP</li>
+<li>GIF</li>
+<li>EPS</li>
+<li>TIFF</li>
+</ul>
+<p>Check out the docs for the <a href="https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html">full list of supported formats</a>.</p>
 <ol>
-<li>In your Python file, import <code>Image</code> from the Pillow (<code>PIL</code>) library.
+<li>In your Python file, import <code>Image</code> from the Pillow library.
 The <code>Image</code> module contains a class of the same name.</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#f92672">from</span> PIL <span style="color:#f92672">import</span> Image
 </span></span></code></pre></div><ol start="2">
-<li>Create an Image object and call the open method on it. Make sure that you add the correct path for the image location - my image is in the same folder as my Python file.</li>
+<li>Create an Image object and call the open method on it. Make sure that you add the correct path for the image location - my image is in the same folder as my Python file, so I don&rsquo;t need to  add it.</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span>img <span style="color:#f92672">=</span> Image<span style="color:#f92672">.</span>open(<span style="color:#e6db74">&#39;some-pic.jpg&#39;</span>)
 </span></span></code></pre></div><ol start="3">
@@ -221,26 +231,28 @@ The <code>Image</code> module contains a class of the same name.</li>
 </span></span></code></pre></div><ul class="pa0">
   
    <li class="list di">
-     <a href="/tags/python/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python</a>
+     <a href="/tags/python/" class="link f6 grow no-underline br-pill ba ph3 pv2 mb2 dib dark-blue sans-serif">python</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/python3/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">python3</a>
+     <a href="/tags/python3/" class="link f6 grow no-underline br-pill ba ph3 pv2 mb2 dib dark-blue sans-serif">python3</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/beginner-python/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">beginner-python</a>
+     <a href="/tags/beginner-python/" class="link f6 grow no-underline br-pill ba ph3 pv2 mb2 dib dark-blue sans-serif">beginner-python</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/image-editing/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">image-editing</a>
+     <a href="/tags/image-editing/" class="link f6 grow no-underline br-pill ba ph3 pv2 mb2 dib dark-blue sans-serif">image-editing</a>
    </li>
   
    <li class="list di">
-     <a href="/tags/coding/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">coding</a>
+     <a href="/tags/coding/" class="link f6 grow no-underline br-pill ba ph3 pv2 mb2 dib dark-blue sans-serif">coding</a>
    </li>
   
 </ul>
+
+
 <div class="mt6 instapaper_ignoref">
       
       
@@ -253,7 +265,7 @@ The <code>Image</code> module contains a class of the same name.</li>
   <ul>
     <li>
       <ul>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#install-pillow">Install Pillow</a></li>
         <li><a href="#convert-image-format">Convert image format</a></li>
       </ul>
     </li>

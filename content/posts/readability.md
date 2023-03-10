@@ -8,7 +8,7 @@ tags: ['readability', 'legibility', 'setting text', 'layout']
 toc: true
 ---
 
-Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility sipmly means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished. 
+Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility simply means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished. 
 
 <!-- An example of a fancy font that is not so easy to read. -->
  
@@ -34,7 +34,7 @@ Examples from the New Yorker, The Times, and The Guardian online versions illust
 
 Many websites still use a full-page layout for the text body, often the text is center-justified, making reading even harder. Your eye needs to ‘anchor’ itself on a straight line of the block of text. Center-justified (aligned) or right-aligned (sometimes called rugged) text is only appropriate for snippets of texts, headlines, and captions. The main body has to be left-aligned, like a mantra: religiously, no exception. 
 
-Adding large margins and splitting the text into smaller columns is a good solution. Columns of text shouldn't be too narrow either, as it will make reading harder. 
+Adding large margins and splitting the text into smaller columns is a good solution. Columns of text shouldn't be too narrow, either, as it will make reading harder. 
 
 > **Tip:** A line should have a minimum of six words - different rules might apply for German and other languages...
 
