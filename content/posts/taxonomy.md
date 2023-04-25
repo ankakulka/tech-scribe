@@ -32,7 +32,8 @@ With the amount of information and data growing exponentially, so does the need 
 - **T**ime,
 - **H**ierarchical order.
 
-###Mental Models
+### Mental Models
+
 When organizing content according to these criteria, it is important to consider the importance of mental models. Asking and testing users can help us clarify which concepts are misleading. 
 Categories and tags are often mixed up. Some systems use one or the other, but some use both.  How do you go about it then?
 
@@ -44,32 +45,37 @@ Categories might change over time but the implementation at the beginning of a p
 
 ### Standards for developing categories
 
-ANSI/NISO standard Z.39.19 provides guidelines on the selection, formulation, organization, and display of terms that together make up a controlled vocabulary.  Its primary aim is to provide a consistent user experience through vocabulary control. A newer standard, developed by the W3 consortium: Simple Knowledge Organization System SKOS is part of the Semantic Web family of standards. 
-Taxonomies features: Synonym control
+**ANSI/NISO standard Z.39.19** provides guidelines on the selection, formulation, organization, and display of terms that together make up a controlled vocabulary.  Its primary aim is to provide a consistent user experience through vocabulary control. A newer standard, developed by the W3 consortium: Simple Knowledge Organization System SKOS is part of the Semantic Web family of standards. 
+
+### Taxonomies features: Synonym control
+
 As we have seen so far, vocabulary control is a crucial feature when creating a taxonomy. Synonyms need to be identified, and the choice of a particular term might be dictated by the desire to appeal to a particular audience. When browsing available courses on masterclass.com, 'culinary arts' attracted my attention. It's not difficult to guess why a premium education provider such as MasterClass prefers the label of 'culinary arts' to simple 'cooking', 'cookery', 'gastronomy', or even 'cuisine'.  It is essential though to decide which term will be used and use it consistently. 
-Structure: hierarchical relationships
-I am a bit of a foodie (aka 'gourmand') so let's explore creating some hierarchical relationships based on MasterClass taxonomy: 
-Generic - specific: Category and more specific  types
-Culinary Arts > Modern Italian Cooking 
-Generic - instance: Common noun - proper noun
-Sauces > Hollandaise
-Whole - Part: Concept or identity and an integral part
-Chocolate Cake > Chocolate Mousse
-Structure: facets
-For an effective query, we need to be able to limit the search. This is also sometimes called a refinement, filter, or narrow by. Faceted classification is excellent for both new and seasoned users but might become unwieldy when it comes to extremely large taxonomies. 
+
+<!-- ### Structure: hierarchical relationships
+
+I am a bit of a foodie so let's explore creating some hierarchical relationships based on MasterClass taxonomy: 
+- `Generic - specific`: Category and more specific  types
+- `Culinary Arts > Modern Italian Cooking`: Generic - instance: Common noun - proper noun
+- `Sauces > Hollandaise`: Whole - Part: Concept or identity and an integral part -->
+
+### Structure: facets
+
+For an effective query, we need to be able to limit the search. This is also sometimes called a refinement, filter, or narrow by. 
+Faceted classification is excellent for both new and seasoned users but might become unwieldy when it comes to extremely large taxonomies. 
 
 ## Taxonomy creation
 
-When creating a taxonomy planning is crucial. You'll need to determine who will be involved, the scope of the project, the type of taxonomy, as well as the limitations of your system. Another consideration is maintenance.  Folksonomy is a term given to a classification where users have more control, so no maintenance by a designated person is required but the system is more chaotic. If there is a chance of interacting with or testing users, so much the better.  Analyzing your users, their aims, and specific use cases will give you a clearer picture of their needs. 
+When creating a taxonomy planning is crucial. You'll need to determine who will be involved, the scope of the project, the type of taxonomy, as well as the limitations of your system. Another consideration is maintenance.  **Folksonomy** is a term given to a classification where users have more control, so no maintenance by a designated person is required but the system is more chaotic. If there is a chance of interacting with or testing users, so much the better.  Analyzing your users, their aims, and specific use cases will give you a clearer picture of their needs. 
 
 ### Sources for concepts, labels, and variants
 
 Your users are also an excellent source from which you can mine labels and categories. Your main source is your content - 
-table of contents,
-metadata, 
-headings, 
-glossaries, 
-file folder names, 
-navigation, 
-menu labels.
+- table of contents,
+- metadata, 
+- headings, 
+- glossaries, 
+- file folder names, 
+- navigation, 
+- menu labels.
+
 Sources such as suggestions from SMEs and engineers might be too detailed and should be considered with caution. The same goes for the external taxonomies which might vary too much from your project. 
