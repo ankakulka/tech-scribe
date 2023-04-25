@@ -59,4 +59,4 @@ merger.write("my-new-merged-file.pdf")
 merger.close()
  ```
 
-This simple code snippet can be enhanced further according to the requirements.
+
