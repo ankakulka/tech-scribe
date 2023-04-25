@@ -32,7 +32,7 @@ With the amount of information and data growing exponentially, so does the need 
 - **T**ime,
 - **H**ierarchical order.
 
-###Mental Models
+### Mental Models
 When organizing content according to these criteria, it is important to consider the importance of mental models. Asking and testing users can help us clarify which concepts are misleading. 
 Categories and tags are often mixed up. Some systems use one or the other, but some use both.  How do you go about it then?
 
