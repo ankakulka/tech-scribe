@@ -25,13 +25,14 @@ The first taxonomy has been created by a Swede, Carl Linnaeus in the 18th centur
 ## LATCH onto anything: how to organize anything
 
 As systems grow more and more complex, we need better ways to organize them. The Dewey Decimal System is one of the classifications used to categorize the books in the library by subject matter. 
-With the amount of information and data growing exponentially, so does the need for the organization of it. You could argue that what the librarians were already doing for hundreds of years can be described as Information Architecture, yet the term first emerged in the 1970s, coined by Richard Saul Wurman. Trained as an architect, R.S. Wurman worked as a graphic designer, specializing in information design. He describes how he organized telephone books, road atlases, and airline guides in new ways to make them more user-friendly in Information Anxiety (1989, issued again in 2000 as Information Anxiety2).  Anything can be organized either through
-Location,
-Alphabetical order,
-Category,
-Time,
-Hierarchical order.
-Mental Models
+With the amount of information and data growing exponentially, so does the need for the organization of it. You could argue that what the librarians were already doing for hundreds of years can be described as Information Architecture, yet the term first emerged in the 1970s, coined by Richard Saul Wurman. Trained as an architect, R.S. Wurman worked as a graphic designer, specializing in information design. He describes how he organized telephone books, road atlases, and airline guides in new ways to make them more user-friendly in Information Anxiety (1989, issued again in 2000 as Information Anxiety2).  Anything can be organized either through:
+- **L**ocation,
+- **A**lphabetical order,
+- **C**ategory,
+- **T**ime,
+- **H**ierarchical order.
+
+###Mental Models
 When organizing content according to these criteria, it is important to consider the importance of mental models. Asking and testing users can help us clarify which concepts are misleading. 
 Categories and tags are often mixed up. Some systems use one or the other, but some use both.  How do you go about it then?
 
