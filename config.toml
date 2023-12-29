@@ -12,10 +12,10 @@ menu = ['main', 'footer']
 
 [params]
   text_color = ""
-  author = ""
+  author = "annak"
   favicon = ""
   site_logo = ""
-  description = "Content Design blahblahblah"
+  description = "Content Design Technical Writing"
   background_color_class = "bg-navy"
   recent_posts_number = 4
 
