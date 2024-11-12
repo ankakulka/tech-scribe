@@ -9,9 +9,105 @@ menu:
 ---
 <!-- {{< figure src="/images/writing-desk.png" title="Tech writers desk" >}} -->
 
-The main focus of my work as a Technical Writer | Content Designer is to:
-- make content more accessible to users
-- ensure findability of content
-- providing intuitive information architecture
+# Who am I?
 
-For more details and to see examples of projects I have worked on, follow the links to my LinkedIn, Behance and GitHub profiles. 
+As an experienced technical writer in SaaS and API documentation, I bring a blend
+of skills specific to technical writing (docs-as-code, editing, setting up style guides),
+as well as technical expertise including; understanding of JavaScript and Python,
+web development and RESTful APIs. In line with content design best practices,
+I can also create visual aids such as diagrams and videos.
+
+## Skills
+
+I have worked with:
+
+ - **docs-as-code**: git (client: GitHub, GitLab, BitBucket), Markdown
+ - **Programming languages**: Familiar with JavaScript, Python and Java
+ - **Content Management Systems**: Paligo, Cosima
+ - **Adobe CC** ( Illustrator | InDesign | Framemaker) 
+ - **DITA**, single-sourcing
+ - **CI/CD**
+ - **Confluence & Jira**
+ - **Diagramming**: draw.io, Figma, mermaid
+
+Side projects: 
+ - browser-based game with JavaScript and Phaser framework. Try it out! [Evil Twin game](https://evil-cat.netlify.app/)
+
+## Education
+
+**Postgraduate Certificate Interactive Media**
+Nottingham Trent University *Oct. 2018 ― Jun. 2018*
+
+**BTEC Web Design**
+City College Brighton *Oct. 2014 ― June 2015*
+
+**BA Fine Art (Hons)**
+University of the Arts London, Camberwell College *Oct. 2008 ― June 2011*
+
+**Art & Design Diploma (Graphic Design Pathway)**
+University of the Arts London, Central St Martins College *Sept. 2007― June 2008*
+
+## Further education
+
+I enjoy learning new things - that’s one of the best things being in the tech comm field!
+
+**Mastering API Documentation** 
+*2024*
+
+**Python for Data Science, AI & Development** 
+IBM *2023*
+
+**Introduction to Data Analytics** 
+IBM *2023*
+
+**Information Visualization**
+Interaction Design Foundation *Sep. 2021*
+
+**The Practical Guide To Usability**
+Interaction Design Foundation *June 2021*
+
+**Documentation with JSON and XML**
+LinkedIn Learning *Dec. 2019*
+
+**Introduction to Web APIs**
+LinkedIn Learning *Oct. 2019*
+
+**Front End Web Development/Beginner JavaScript**
+TeamTreehouse *June 2017*
+
+## Work experience
+
+**Technical Writer**
+XTM 
+*Sep. 2020 ― Mar. 2022*
+
+ - Created and maintained various technical content including: Knowledge Base articles, software manuals and release notes
+ - **Content strategy/Information architecture**: I re-structured existing documentation to make content re-usable and more user-friendly
+ - **UX writing**: I created UI texts for new features, updated existing texts 
+ - Improved existing content and processes
+
+**Technical Writer** 
+Etteplan
+*Feb. 2019 ― July 2020*
+
+ - Created, updated and proofread technical documentation in English,
+   such as user manuals and installation manual
+ - Proofread articles to ensure the highest quality for publication
+
+**Editor**
+DTP Mediaservice
+ *July 2018 ― Dec. 2018* 
+
+ - Proofread articles to ensure the highest quality for publication
+ - Created graphics (using InDesign, Illustrator, Photoshop) for online
+   and print publications
+
+**Digital Designer**
+ Freelance 
+ *June 2016 ― June 2018*
+ 
+Created:
+ - illustrations 
+ - flyers
+ - web banners 
+ - User Interface designs

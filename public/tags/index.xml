@@ -2,181 +2,144 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tech Scribe</title>
-    <link>https://tech-scribe.netlify.app/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Tech Scribe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>beginner-python</title>
-      <link>https://tech-scribe.netlify.app/tags/beginner-python/</link>
+      <title>Beginner-Python</title>
+      <link>http://localhost:1313/tags/beginner-python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/beginner-python/</guid>
+      <guid>http://localhost:1313/tags/beginner-python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>coding</title>
-      <link>https://tech-scribe.netlify.app/tags/coding/</link>
+      <title>Coding</title>
+      <link>http://localhost:1313/tags/coding/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/coding/</guid>
+      <guid>http://localhost:1313/tags/coding/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>image-editing</title>
-      <link>https://tech-scribe.netlify.app/tags/image-editing/</link>
+      <title>Image-Editing</title>
+      <link>http://localhost:1313/tags/image-editing/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/image-editing/</guid>
+      <guid>http://localhost:1313/tags/image-editing/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python</title>
-      <link>https://tech-scribe.netlify.app/tags/python/</link>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/python/</guid>
+      <guid>http://localhost:1313/tags/python/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>python3</title>
-      <link>https://tech-scribe.netlify.app/tags/python3/</link>
+      <title>Python3</title>
+      <link>http://localhost:1313/tags/python3/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/python3/</guid>
+      <guid>http://localhost:1313/tags/python3/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>PDF</title>
-      <link>https://tech-scribe.netlify.app/tags/pdf/</link>
+      <link>http://localhost:1313/tags/pdf/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/pdf/</guid>
+      <guid>http://localhost:1313/tags/pdf/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>animation</title>
-      <link>https://tech-scribe.netlify.app/tags/animation/</link>
+      <title>Animation</title>
+      <link>http://localhost:1313/tags/animation/</link>
       <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/animation/</guid>
+      <guid>http://localhost:1313/tags/animation/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>CSS</title>
-      <link>https://tech-scribe.netlify.app/tags/css/</link>
+      <link>http://localhost:1313/tags/css/</link>
       <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/css/</guid>
+      <guid>http://localhost:1313/tags/css/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SVG</title>
-      <link>https://tech-scribe.netlify.app/tags/svg/</link>
+      <link>http://localhost:1313/tags/svg/</link>
       <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/svg/</guid>
+      <guid>http://localhost:1313/tags/svg/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>categories</title>
-      <link>https://tech-scribe.netlify.app/tags/categories/</link>
+      <title>Categories</title>
+      <link>http://localhost:1313/tags/categories/</link>
       <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/categories/</guid>
+      <guid>http://localhost:1313/tags/categories/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tags</title>
-      <link>https://tech-scribe.netlify.app/tags/tags/</link>
+      <title>Tags</title>
+      <link>http://localhost:1313/tags/tags/</link>
       <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/tags/</guid>
+      <guid>http://localhost:1313/tags/tags/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>taxonomy</title>
-      <link>https://tech-scribe.netlify.app/tags/taxonomy/</link>
+      <title>Taxonomy</title>
+      <link>http://localhost:1313/tags/taxonomy/</link>
       <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/taxonomy/</guid>
+      <guid>http://localhost:1313/tags/taxonomy/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>layout</title>
-      <link>https://tech-scribe.netlify.app/tags/layout/</link>
+      <title>Layout</title>
+      <link>http://localhost:1313/tags/layout/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/layout/</guid>
+      <guid>http://localhost:1313/tags/layout/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>legibility</title>
-      <link>https://tech-scribe.netlify.app/tags/legibility/</link>
+      <title>Legibility</title>
+      <link>http://localhost:1313/tags/legibility/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/legibility/</guid>
+      <guid>http://localhost:1313/tags/legibility/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>readability</title>
-      <link>https://tech-scribe.netlify.app/tags/readability/</link>
+      <title>Readability</title>
+      <link>http://localhost:1313/tags/readability/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/readability/</guid>
+      <guid>http://localhost:1313/tags/readability/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>setting text</title>
-      <link>https://tech-scribe.netlify.app/tags/setting-text/</link>
+      <title>Setting Text</title>
+      <link>http://localhost:1313/tags/setting-text/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/setting-text/</guid>
+      <guid>http://localhost:1313/tags/setting-text/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>API</title>
-      <link>https://tech-scribe.netlify.app/tags/api/</link>
+      <link>http://localhost:1313/tags/api/</link>
       <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/api/</guid>
+      <guid>http://localhost:1313/tags/api/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>REST</title>
-      <link>https://tech-scribe.netlify.app/tags/rest/</link>
+      <link>http://localhost:1313/tags/rest/</link>
       <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/rest/</guid>
+      <guid>http://localhost:1313/tags/rest/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>SOAP</title>
-      <link>https://tech-scribe.netlify.app/tags/soap/</link>
+      <link>http://localhost:1313/tags/soap/</link>
       <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/tags/soap/</guid>
+      <guid>http://localhost:1313/tags/soap/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>beginner-python on Tech Scribe</title>
-    <link>https://tech-scribe.netlify.app/tags/beginner-python/</link>
-    <description>Recent content in beginner-python on Tech Scribe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Beginner-Python on Tech Scribe</title>
+    <link>http://localhost:1313/tags/beginner-python/</link>
+    <description>Recent content in Beginner-Python on Tech Scribe</description>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/beginner-python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/beginner-python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convert image format using Python</title>
-      <link>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</link>
+      <link>http://localhost:1313/posts/convert-image-format-using-python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</guid>
-      <description>There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
-In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.</description>
+      <guid>http://localhost:1313/posts/convert-image-format-using-python/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop -&#xA;but did you know you can also edit images using Python?&#xA;While &lt;a href=&#34;https://pillow.readthedocs.io/en/stable/index.html#&#34;&gt;Pillow&lt;/a&gt;, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop,&#xA;it does help you to perform certain actions &lt;strong&gt;faster&lt;/strong&gt; - and completely free.&lt;/p&gt;&#xA;&lt;p&gt;In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library.&#xA;You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

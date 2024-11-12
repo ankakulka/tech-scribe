@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>categories on Tech Scribe</title>
-    <link>https://tech-scribe.netlify.app/tags/categories/</link>
-    <description>Recent content in categories on Tech Scribe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Categories on Tech Scribe</title>
+    <link>http://localhost:1313/tags/categories/</link>
+    <description>Recent content in Categories on Tech Scribe</description>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 29 Nov 2022 15:48:34 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 15:48:34 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taxonomy</title>
-      <link>https://tech-scribe.netlify.app/posts/taxonomy/</link>
+      <link>http://localhost:1313/posts/taxonomy/</link>
       <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/taxonomy/</guid>
-      <description>Taxonomy Before you start: why should you create a taxonomy? Let&amp;rsquo;s be blunt: is a taxonomy necessary for your project? Why put extra work and effort into creating a system that many organizations seem to eschew? Let me illustrate with a quote from the kmworld Knowledge workers spend 15 to 35 percent of their time searching for information 40 percent cannot find the information they need on their corporate intranets 15 percent of their time is spent duplicating information that exists but cannot be found If the usability of a system can be improved, the time and effort that has been invested will result in time saved by everyone searching for information.</description>
+      <guid>http://localhost:1313/posts/taxonomy/</guid>
+      <description>&lt;h1 id=&#34;taxonomy&#34;&gt;Taxonomy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;before-you-start-why-should-you-create-a-taxonomy&#34;&gt;Before you start: why should you create a taxonomy?&lt;/h2&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s be blunt: is a taxonomy necessary for your project? Why put extra work and effort into creating a system that many organizations seem to eschew? Let me illustrate with a quote from the kmworld&#xA;Knowledge workers spend 15 to 35 percent of their time searching for information&#xA;40 percent cannot find the information they need on their corporate intranets&#xA;15 percent of their time is spent duplicating information that exists but cannot be found&#xA;If the usability of a system can be improved, the time and effort that has been invested will result in time saved by everyone searching for information.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

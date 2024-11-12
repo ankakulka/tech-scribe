@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>python3 on Tech Scribe</title>
-    <link>https://tech-scribe.netlify.app/tags/python3/</link>
-    <description>Recent content in python3 on Tech Scribe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Python3 on Tech Scribe</title>
+    <link>http://localhost:1313/tags/python3/</link>
+    <description>Recent content in Python3 on Tech Scribe</description>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/python3/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Convert image format using Python</title>
-      <link>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</link>
+      <link>http://localhost:1313/posts/convert-image-format-using-python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</guid>
-      <description>There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop - but did you know you can also edit images using Python? While Pillow, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop, it does help you to perform certain actions faster - and completely free.
-In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library. You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.</description>
+      <guid>http://localhost:1313/posts/convert-image-format-using-python/</guid>
+      <description>&lt;p&gt;There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop -&#xA;but did you know you can also edit images using Python?&#xA;While &lt;a href=&#34;https://pillow.readthedocs.io/en/stable/index.html#&#34;&gt;Pillow&lt;/a&gt;, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop,&#xA;it does help you to perform certain actions &lt;strong&gt;faster&lt;/strong&gt; - and completely free.&lt;/p&gt;&#xA;&lt;p&gt;In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library.&#xA;You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Merge PDFs Using Python</title>
-      <link>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</link>
+      <link>http://localhost:1313/posts/merge-pdfs-using-python/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</guid>
-      <description>Merge PDFs Using Python Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be. You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.
-In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library. This method is much quicker and cheaper and all the tools used here are free.</description>
+      <guid>http://localhost:1313/posts/merge-pdfs-using-python/</guid>
+      <description>&lt;h1 id=&#34;merge-pdfs-using-python&#34;&gt;Merge PDFs Using Python&lt;/h1&gt;&#xA;&lt;p&gt;Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be.&#xA;You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.&lt;/p&gt;&#xA;&lt;p&gt;In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.&#xA;This method is much quicker and cheaper and all the tools used here are free.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

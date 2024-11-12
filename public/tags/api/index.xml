@@ -2,19 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>API on Tech Scribe</title>
-    <link>https://tech-scribe.netlify.app/tags/api/</link>
+    <link>http://localhost:1313/tags/api/</link>
     <description>Recent content in API on Tech Scribe</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Wed, 02 Feb 2022 12:01:28 +0100</lastBuildDate><atom:link href="https://tech-scribe.netlify.app/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 12:01:28 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>REST or SOAP</title>
-      <link>https://tech-scribe.netlify.app/posts/rest-or-soap/</link>
+      <link>http://localhost:1313/posts/rest-or-soap/</link>
       <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      
-      <guid>https://tech-scribe.netlify.app/posts/rest-or-soap/</guid>
-      <description>First of all, let us consider whether we can compare those web services. SOAP (Simple Object Access Protocol), as the full name suggests, is a protocol. On the other hand, REST is an architectural style. It allows more flexibility and is considered easier to implement. RESTful applications have become ubiquitous in recent years, with SOAP web services lagging behind. There is no simple answer to whether one is ‘better’ than the other - it depends on the use case.</description>
+      <guid>http://localhost:1313/posts/rest-or-soap/</guid>
+      <description>&lt;p&gt;First of all, let us consider whether we can compare those web services.&#xA;&lt;strong&gt;SOAP&lt;/strong&gt; (Simple Object Access Protocol), as the full name suggests, is a protocol.&#xA;On the other hand, &lt;strong&gt;REST&lt;/strong&gt; is an architectural style.&#xA;It allows more flexibility and is considered easier to implement.&#xA;RESTful applications have become ubiquitous in recent years, with SOAP web services&#xA;lagging behind. There is no simple answer to whether one is ‘better’ than the other -&#xA;it depends on the use case.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -3,7 +3,15 @@ languageCode = 'en-uk'
 title = 'Tech Scribe'
 theme = 'ananke'
 
-menu = ['main', 'footer']
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.footer]]
+    name = "About"
+    url = "/about/"
+    weight = 1
 
 [sitemap]
   changefreq = "monthly"
@@ -33,7 +41,7 @@ color = "#9EEBCF"
 
 [[params.ananke_socials]]
 name = "behance"
-url = "https://www.behance.net/annakul"
+url = "https://www.behance.net/anna_kul"
 label = "TND Behance Account"
 color = "#9EEBCF"
 

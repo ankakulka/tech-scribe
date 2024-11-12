@@ -2,151 +2,151 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tech-scribe.netlify.app/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/beginner-python/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/beginner-python/</loc>
+    <loc>http://localhost:1313/tags/coding/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/coding/</loc>
+    <loc>http://localhost:1313/posts/convert-image-format-using-python/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/convert-image-format-using-python/</loc>
+    <loc>http://localhost:1313/tags/image-editing/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/image-editing/</loc>
+    <loc>http://localhost:1313/tags/python/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/python/</loc>
+    <loc>http://localhost:1313/tags/python3/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/python3/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/</loc>
-    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/merge-pdfs-using-python/</loc>
+    <loc>http://localhost:1313/posts/merge-pdfs-using-python/</loc>
     <lastmod>2022-11-30T11:47:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/pdf/</loc>
+    <loc>http://localhost:1313/tags/pdf/</loc>
     <lastmod>2022-11-30T11:47:12+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/animation/</loc>
+    <loc>http://localhost:1313/tags/animation/</loc>
     <lastmod>2022-11-29T16:02:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/css/</loc>
+    <loc>http://localhost:1313/tags/css/</loc>
     <lastmod>2022-11-29T16:02:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/css-animation-tutorial/</loc>
+    <loc>http://localhost:1313/posts/css-animation-tutorial/</loc>
     <lastmod>2022-11-29T16:02:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/svg/</loc>
+    <loc>http://localhost:1313/tags/svg/</loc>
     <lastmod>2022-11-29T16:02:35+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/categories/</loc>
+    <loc>http://localhost:1313/tags/categories/</loc>
     <lastmod>2022-11-29T15:48:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/tags/</loc>
+    <loc>http://localhost:1313/tags/tags/</loc>
     <lastmod>2022-11-29T15:48:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/taxonomy/</loc>
+    <loc>http://localhost:1313/tags/taxonomy/</loc>
     <lastmod>2022-11-29T15:48:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/taxonomy/</loc>
+    <loc>http://localhost:1313/posts/taxonomy/</loc>
     <lastmod>2022-11-29T15:48:34+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/layout/</loc>
+    <loc>http://localhost:1313/tags/layout/</loc>
     <lastmod>2022-11-29T15:42:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/legibility/</loc>
+    <loc>http://localhost:1313/tags/legibility/</loc>
     <lastmod>2022-11-29T15:42:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/readability/</loc>
+    <loc>http://localhost:1313/tags/readability/</loc>
     <lastmod>2022-11-29T15:42:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/readability/</loc>
+    <loc>http://localhost:1313/posts/readability/</loc>
     <lastmod>2022-11-29T15:42:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/setting-text/</loc>
+    <loc>http://localhost:1313/tags/setting-text/</loc>
     <lastmod>2022-11-29T15:42:13+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/api/</loc>
+    <loc>http://localhost:1313/tags/api/</loc>
     <lastmod>2022-02-02T12:01:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/rest/</loc>
+    <loc>http://localhost:1313/tags/rest/</loc>
     <lastmod>2022-02-02T12:01:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/posts/rest-or-soap/</loc>
+    <loc>http://localhost:1313/posts/rest-or-soap/</loc>
     <lastmod>2022-02-02T12:01:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/tags/soap/</loc>
+    <loc>http://localhost:1313/tags/soap/</loc>
     <lastmod>2022-02-02T12:01:28+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://tech-scribe.netlify.app/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
