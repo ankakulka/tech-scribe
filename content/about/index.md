@@ -35,79 +35,28 @@ Side projects:
 
 ## Education
 
-**Postgraduate Certificate Interactive Media**
-Nottingham Trent University *Oct. 2018 ― Jun. 2018*
+| Qualification/Program                                      | Institution/Provider                                      | Dates                           |
+|------------------------------------------------------------|-----------------------------------------------------------|---------------------------------|
+| **Postgraduate Certificate Interactive Media**              | Nottingham Trent University                               | Oct. 2018 ― Jun. 2018           |
+| **BTEC Web Design**                                         | City College Brighton                                     | Oct. 2014 ― June 2015           |
+| **BA Fine Art (Hons)**                                       | University of the Arts London, Camberwell College         | Oct. 2008 ― June 2011          |
+| **Art & Design Diploma (Graphic Design Pathway)**            | University of the Arts London, Central St Martins College | Sept. 2007― June 2008          |
+| **Mastering API Documentation**                             | -                                                         | 2024                            |
+| **Python for Data Science, AI & Development**               | IBM                                                       | 2023                            |
+| **Introduction to Data Analytics**                          | IBM                                                       | 2023                            |
+| **Information Visualization**                               | Interaction Design Foundation                             | Sep. 2021                       |
+| **The Practical Guide To Usability**                        | Interaction Design Foundation                             | June 2021                       |
+| **Documentation with JSON and XML**                         | LinkedIn Learning                                         | Dec. 2019                       |
+| **Introduction to Web APIs**                                | LinkedIn Learning                                         | Oct. 2019                       |
+| **Front End Web Development/Beginner JavaScript**           | TeamTreehouse                                             | June 2017                       |
 
-**BTEC Web Design**
-City College Brighton *Oct. 2014 ― June 2015*
-
-**BA Fine Art (Hons)**
-University of the Arts London, Camberwell College *Oct. 2008 ― June 2011*
-
-**Art & Design Diploma (Graphic Design Pathway)**
-University of the Arts London, Central St Martins College *Sept. 2007― June 2008*
-
-## Further education
-
-I enjoy learning new things - that’s one of the best things being in the tech comm field!
-
-**Mastering API Documentation** 
-*2024*
-
-**Python for Data Science, AI & Development** 
-IBM *2023*
-
-**Introduction to Data Analytics** 
-IBM *2023*
-
-**Information Visualization**
-Interaction Design Foundation *Sep. 2021*
-
-**The Practical Guide To Usability**
-Interaction Design Foundation *June 2021*
-
-**Documentation with JSON and XML**
-LinkedIn Learning *Dec. 2019*
-
-**Introduction to Web APIs**
-LinkedIn Learning *Oct. 2019*
-
-**Front End Web Development/Beginner JavaScript**
-TeamTreehouse *June 2017*
 
 ## Work experience
 
-**Technical Writer**
-XTM 
-*Sep. 2020 ― Mar. 2022*
 
- - Created and maintained various technical content including: Knowledge Base articles, software manuals and release notes
- - **Content strategy/Information architecture**: I re-structured existing documentation to make content re-usable and more user-friendly
- - **UX writing**: I created UI texts for new features, updated existing texts 
- - Improved existing content and processes
-
-**Technical Writer** 
-Etteplan
-*Feb. 2019 ― July 2020*
-
- - Created, updated and proofread technical documentation in English,
-   such as user manuals and installation manual
- - Proofread articles to ensure the highest quality for publication
-
-**Editor**
-DTP Mediaservice
- *July 2018 ― Dec. 2018* 
-
- - Proofread articles to ensure the highest quality for publication
- - Created graphics (using InDesign, Illustrator, Photoshop) for online
-   and print publications
-
-**Digital Designer**
- Freelance 
- *June 2016 ― June 2018*
- 
-Created:
- - illustrations 
- - flyers
- - web banners 
- - User Interface designs
+| Job Title              | Company             | Dates                         | Responsibilities/Tasks                                                                 |
+|------------------------|---------------------|-------------------------------|----------------------------------------------------------------------------------------|
+| **Technical Writer**    | XTM                 | Sep. 2020 ― Mar. 2022          | - Created and maintained various technical content including: Knowledge Base articles, software manuals, and release notes<br> - Content strategy/Information architecture: Restructured documentation to make content reusable and user-friendly<br> - **UX writing**: Created UI texts for new features, updated existing texts<br> - Improved existing content and processes |
+| **Technical Writer**    | Etteplan            | Feb. 2019 ― July 2020          | - Created, updated, and proofread technical documentation in English, such as user manuals and installation manual<br> - Proofread articles to ensure the highest quality for publication |
+| **Editor**              | DTP Mediaservice    | July 2018 ― Dec. 2018          | - Proofread articles to ensure the highest quality for publication<br> - Created graphics (using InDesign, Illustrator, Photoshop) for online and print publications |
+| **Digital Designer**    | Freelance           | June 2016 ― June 2018          | - Created illustrations<br> - Created flyers<br> - Created web banners<br> - Designed user interfaces |
