@@ -90,39 +90,40 @@ Created:
 ## Education
 
 
- **Postgraduate Certificate Interactive Media** | Nottingham Trent University 
+**Postgraduate Certificate Interactive Media** | Nottingham Trent University <br>
 *Oct. 2018 ― Jun. 2018* 
 
- **BTEC Web Design** | City College Brighton 
+**BTEC Web Design** | City College Brighton <br>
  *Oct. 2014 ― June 2015*
 
-**BA Fine Art (Hons)** | University of the Arts London, Camberwell College | Oct. *2008 ― June 2011* 
+**BA Fine Art (Hons)** | University of the Arts London, Camberwell College <br>
+Oct. *2008 ― June 2011* 
 
-**Art & Design Diploma (Graphic Design Pathway)** | University of the Arts London, Central St Martins College 
+**Art & Design Diploma (Graphic Design Pathway)** | University of the Arts London, Central St Martins College <br>
 *Sept. 2007― June 2008* 
 
 ## Further education
 
-**Mastering API Documentation**
+**Mastering API Documentation** <br>
 *2024* 
 
-**Python for Data Science, AI & Development** | IBM 
+**Python for Data Science, AI & Development** | IBM <br>
 *2023* 
 
-**Introduction to Data Analytics** | IBM 
+**Introduction to Data Analytics** | IBM <br>
 *2023*
 
- **Information Visualization** | Interaction Design Foundation 
+ **Information Visualization** | Interaction Design Foundation <br>
  *Sep. 2021* 
 
-**The Practical Guide To Usability** | Interaction Design Foundation 
+**The Practical Guide To Usability** | Interaction Design Foundation <br>
 *June 2021*
 
-**Documentation with JSON and XML** | LinkedIn Learning 
+**Documentation with JSON and XML** | LinkedIn Learning <br>
 *Dec. 2019*
 
-**Introduction to Web APIs** | LinkedIn Learning 
+**Introduction to Web APIs** | LinkedIn Learning <br>
  *Oct. 2019* 
 
-**Front End Web Development/Beginner JavaScript** | TeamTreehouse 
+**Front End Web Development/Beginner JavaScript** | TeamTreehouse <br>
 *June 2017* 
