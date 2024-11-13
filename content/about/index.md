@@ -33,24 +33,6 @@ I have worked with:
 Side projects: 
  - browser-based game with JavaScript and Phaser framework. Try it out! [Evil Twin game](https://evil-cat.netlify.app/)
 
-## Education
-
-| Qualification/Program                                      | Institution/Provider                                      | Dates                           |
-|------------------------------------------------------------|-----------------------------------------------------------|---------------------------------|
-| **Postgraduate Certificate Interactive Media**              | Nottingham Trent University                               | Oct. 2018 ― Jun. 2018           |
-| **BTEC Web Design**                                         | City College Brighton                                     | Oct. 2014 ― June 2015           |
-| **BA Fine Art (Hons)**                                       | University of the Arts London, Camberwell College         | Oct. 2008 ― June 2011          |
-| **Art & Design Diploma (Graphic Design Pathway)**            | University of the Arts London, Central St Martins College | Sept. 2007― June 2008          |
-| **Mastering API Documentation**                             | -                                                         | 2024                            |
-| **Python for Data Science, AI & Development**               | IBM                                                       | 2023                            |
-| **Introduction to Data Analytics**                          | IBM                                                       | 2023                            |
-| **Information Visualization**                               | Interaction Design Foundation                             | Sep. 2021                       |
-| **The Practical Guide To Usability**                        | Interaction Design Foundation                             | June 2021                       |
-| **Documentation with JSON and XML**                         | LinkedIn Learning                                         | Dec. 2019                       |
-| **Introduction to Web APIs**                                | LinkedIn Learning                                         | Oct. 2019                       |
-| **Front End Web Development/Beginner JavaScript**           | TeamTreehouse                                             | June 2017                       |
-
-
 ## Work experience
 
 
@@ -63,12 +45,15 @@ ensuring that these materials are easy to follow and up-to-date
 • Tested API endpoints to validate the documentation
 • Revised REST API technical documentation and release notes
 • Migrated extensive documentation to a new platform (Gitbook)
-API Technical Writer Softserve for Atlassian Apr. 2022 ― Jul. 2023
+
+
+**API Technical Writer** | Softserve for Atlassian 
+*Apr. 2022 ― Jul. 2023*
+
 • Reviewed Jira Cloud platform REST API technical documentation
 (Git and BitBucket used)
 • Worked closely with multiple developer teams to make sure
 that the documentation is accurate, consistent and up-to-date
- 
 
 
 **Technical Writer** | XTM 
@@ -100,3 +85,44 @@ Created:
  - illustrations<br> 
  -  flyers<br>
  - web banners<br>
+
+
+## Education
+
+
+ **Postgraduate Certificate Interactive Media** | Nottingham Trent University 
+*Oct. 2018 ― Jun. 2018* 
+
+ **BTEC Web Design** | City College Brighton 
+ *Oct. 2014 ― June 2015*
+
+**BA Fine Art (Hons)** | University of the Arts London, Camberwell College | Oct. *2008 ― June 2011* 
+
+**Art & Design Diploma (Graphic Design Pathway)** | University of the Arts London, Central St Martins College 
+*Sept. 2007― June 2008* 
+
+## Further education
+
+**Mastering API Documentation**
+*2024* 
+
+**Python for Data Science, AI & Development** | IBM 
+*2023* 
+
+**Introduction to Data Analytics** | IBM 
+*2023*
+
+ **Information Visualization** | Interaction Design Foundation 
+ *Sep. 2021* 
+
+**The Practical Guide To Usability** | Interaction Design Foundation 
+*June 2021*
+
+**Documentation with JSON and XML** | LinkedIn Learning 
+*Dec. 2019*
+
+**Introduction to Web APIs** | LinkedIn Learning 
+ *Oct. 2019* 
+
+**Front End Web Development/Beginner JavaScript** | TeamTreehouse 
+*June 2017* 
