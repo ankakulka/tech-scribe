@@ -7,6 +7,86 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>http://localhost:1313/tags/ai-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/posts/ai-chatbot-tutorial/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/build-an-ai-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/build-your-own-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/building-a-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/coding-a-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/create-a-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/develop-a-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-build-a-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-make-a-chatbot-from-scratch/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-make-a-chatbot-in-python/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-make-a-self-learning-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-make-an-ai-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-make-your-own-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/how-to-program-a-chatbot/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-11-12T19:43:45+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>http://localhost:1313/tags/beginner-python/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -33,11 +113,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>http://localhost:1313/tags/python3/</loc>
-    <lastmod>2022-12-18T19:07:18+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2022-12-18T19:07:18+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

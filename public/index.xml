@@ -6,8 +6,15 @@
     <description>Recent content on Tech Scribe</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Sun, 18 Dec 2022 19:07:18 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 19:43:45 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Chatbot Tutorial</title>
+      <link>http://localhost:1313/posts/ai-chatbot-tutorial/</link>
+      <pubDate>Tue, 12 Nov 2024 19:43:45 +0100</pubDate>
+      <guid>http://localhost:1313/posts/ai-chatbot-tutorial/</guid>
+      <description>&lt;h1 id=&#34;how-to-make-an-ai-chatbot&#34;&gt;How To Make An AI Chatbot&lt;/h1&gt;&#xA;&lt;p&gt;You have probably noticed how quickly chatbots have proliferated in the last few years and months. The rapid adoption of chatbots has been made possible not just by the open-source LLMs (Large Language Models) but also thanks to low-code platforms such as n8n.&lt;/p&gt;&#xA;&lt;p&gt;Large Language Models are neural networks  trained on large datasets and can detect patterns in them. Thanks to that ability, they can predict characters or words that would plausibly follow in a sequence.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Convert image format using Python</title>
       <link>http://localhost:1313/posts/convert-image-format-using-python/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>How to Program a Chatbot on Tech Scribe</title>
+    <link>http://localhost:1313/tags/how-to-program-a-chatbot/</link>
+    <description>Recent content in How to Program a Chatbot on Tech Scribe</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 12 Nov 2024 19:43:45 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/how-to-program-a-chatbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI Chatbot Tutorial</title>
+      <link>http://localhost:1313/posts/ai-chatbot-tutorial/</link>
+      <pubDate>Tue, 12 Nov 2024 19:43:45 +0100</pubDate>
+      <guid>http://localhost:1313/posts/ai-chatbot-tutorial/</guid>
+      <description>&lt;h1 id=&#34;how-to-make-an-ai-chatbot&#34;&gt;How To Make An AI Chatbot&lt;/h1&gt;&#xA;&lt;p&gt;You have probably noticed how quickly chatbots have proliferated in the last few years and months. The rapid adoption of chatbots has been made possible not just by the open-source LLMs (Large Language Models) but also thanks to low-code platforms such as n8n.&lt;/p&gt;&#xA;&lt;p&gt;Large Language Models are neural networks  trained on large datasets and can detect patterns in them. Thanks to that ability, they can predict characters or words that would plausibly follow in a sequence.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
