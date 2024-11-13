@@ -40,20 +40,20 @@ Side projects:
 *Nov. 2023 ― Present*
 
 • Created quick-start guides, reference guides, tutorials, and code samples,
-ensuring that these materials are easy to follow and up-to-date
-• Improved usability and findability, advised on new information architecture
-• Tested API endpoints to validate the documentation
-• Revised REST API technical documentation and release notes
-• Migrated extensive documentation to a new platform (Gitbook)
+ensuring that these materials are easy to follow and up-to-date <br/>
+• Improved usability and findability, advised on new information architecture <br/>
+• Tested API endpoints to validate the documentation<br/>
+• Revised REST API technical documentation and release notes<br/>
+• Migrated extensive documentation to a new platform (Gitbook)<br/>
 
 
 **API Technical Writer** | Softserve for Atlassian <br> 
 *Apr. 2022 ― Jul. 2023*
 
 • Reviewed Jira Cloud platform REST API technical documentation
-(Git and BitBucket used)
+(Git and BitBucket used) <br/>
 • Worked closely with multiple developer teams to make sure
-that the documentation is accurate, consistent and up-to-date
+that the documentation is accurate, consistent and up-to-date <br/>
 
 
 **Technical Writer** | XTM <br> 
@@ -90,40 +90,40 @@ Created:
 ## Education
 
 
-**Postgraduate Certificate Interactive Media** | Nottingham Trent University <br>
+**Postgraduate Certificate Interactive Media** | Nottingham Trent University <br/>
 *Oct. 2018 ― Jun. 2018* 
 
-**BTEC Web Design** | City College Brighton <br>
+**BTEC Web Design** | City College Brighton <br/>
  *Oct. 2014 ― June 2015*
 
-**BA Fine Art (Hons)** | University of the Arts London, Camberwell College <br>
+**BA Fine Art (Hons)** | University of the Arts London, Camberwell College <br/>
 Oct. *2008 ― June 2011* 
 
-**Art & Design Diploma (Graphic Design Pathway)** | University of the Arts London, Central St Martins College <br>
+**Art & Design Diploma (Graphic Design Pathway)** | University of the Arts London, Central St Martins College <br/>
 *Sept. 2007― June 2008* 
 
 ## Further education
 
-**Mastering API Documentation** <br>
+**Mastering API Documentation** <br/>
 *2024* 
 
-**Python for Data Science, AI & Development** | IBM <br>
+**Python for Data Science, AI & Development** | IBM <br/>
 *2023* 
 
-**Introduction to Data Analytics** | IBM <br>
+**Introduction to Data Analytics** | IBM <br/>
 *2023*
 
- **Information Visualization** | Interaction Design Foundation <br>
+ **Information Visualization** | Interaction Design Foundation <br/>
  *Sep. 2021* 
 
-**The Practical Guide To Usability** | Interaction Design Foundation <br>
+**The Practical Guide To Usability** | Interaction Design Foundation <br/>
 *June 2021*
 
-**Documentation with JSON and XML** | LinkedIn Learning <br>
+**Documentation with JSON and XML** | LinkedIn Learning <br/>
 *Dec. 2019*
 
-**Introduction to Web APIs** | LinkedIn Learning <br>
+**Introduction to Web APIs** | LinkedIn Learning <br/>
  *Oct. 2019* 
 
-**Front End Web Development/Beginner JavaScript** | TeamTreehouse <br>
+**Front End Web Development/Beginner JavaScript** | TeamTreehouse <br/>
 *June 2017* 
