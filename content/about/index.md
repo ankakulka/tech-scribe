@@ -36,7 +36,7 @@ Side projects:
 ## Work experience
 
 
-**Technical Writer** | Freelance (SCAYLE/e-commerce) 
+**Technical Writer** | Freelance (SCAYLE/e-commerce) <br> 
 *Nov. 2023 ― Present*
 
 • Created quick-start guides, reference guides, tutorials, and code samples,
@@ -47,7 +47,7 @@ ensuring that these materials are easy to follow and up-to-date
 • Migrated extensive documentation to a new platform (Gitbook)
 
 
-**API Technical Writer** | Softserve for Atlassian 
+**API Technical Writer** | Softserve for Atlassian <br> 
 *Apr. 2022 ― Jul. 2023*
 
 • Reviewed Jira Cloud platform REST API technical documentation
@@ -56,7 +56,7 @@ ensuring that these materials are easy to follow and up-to-date
 that the documentation is accurate, consistent and up-to-date
 
 
-**Technical Writer** | XTM 
+**Technical Writer** | XTM <br> 
 *Sep. 2020 ― Mar. 2022*
  
  - Created and maintained various technical content including: Knowledge Base articles, software manuals, and release notes<br>
@@ -64,19 +64,19 @@ that the documentation is accurate, consistent and up-to-date
  -  **UX writing**: Created UI texts for new features, updated existing texts<br> 
  - Improved existing content and processes
 
-**Technical Writer** | Etteplan 
+**Technical Writer** | Etteplan <br> 
 *Feb. 2019 ― July 2020* 
 - Created, updated, and proofread technical documentation in English, such as user manuals and installation manual<br> 
 - Proofread articles to ensure the highest quality for publication 
 
-**Editor** | DTP Mediaservice 
+**Editor** | DTP Mediaservice <br> 
 *July 2018 ― Dec. 2018*
 
  
  - Proofread articles to ensure the highest quality for publication<br> 
  - Created graphics (using InDesign, Illustrator, Photoshop) for online and print publications 
 
-**Digital Designer** | Freelance 
+**Digital Designer** | Freelance <br> 
 *June 2016 ― June 2018*
 
 Created:
