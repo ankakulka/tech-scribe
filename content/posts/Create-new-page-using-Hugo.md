@@ -39,14 +39,11 @@ To instruct an average internet user how to create a page using Hugo Static Site
    Example: 
 
    ```markdown
-
-   \---
-
+   ---
    title: "Your Post"`
-   date: 2024-11-16T13:56:34+01:00`
+   date: 2024-11-16T13:56:34+01:00
    draft: true
-   
-    \---
+   ---
     ```
 
    Replace `true` by false. The page is now no longer in the draft mode   
