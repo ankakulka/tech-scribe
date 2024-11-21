@@ -8,6 +8,7 @@ category: Articles
 toc: true
 featured_image: "/images/leaf-lite.png"
 omit_header_text: true
+summary: "CSS tutorial for users with some HTML and CSS knowledge"
 ---
 
 ## Why create SVG animations using CSS?
@@ -18,7 +19,7 @@ They will look just as great on a tiny mobile screen as on a huge retina display
 
 Thanks to the animation features in CSS3 we can create simple (yet enticing!) animations that are easy on your page without the need to run JavaScript.
 
-> This animation tutorial is suitable for everyone with basic HTML and CSS knowledge. 
+> This animation tutorial is suitable for everyone with some HTML and CSS knowledge. 
 > I will explain how to create a custom animation to create cool effects.
 > You'll need a vector editing program and a text editor. 
  

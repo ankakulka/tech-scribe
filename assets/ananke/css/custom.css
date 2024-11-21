@@ -1,3 +1,10 @@
+/* HERO IMG */
+
+
+.bg-black-60 {
+  background-color: rgba(0, 0, 0, 0) !important; /* Set background to transparent */
+}
+
 a {
     color: #76c9ae;
   }

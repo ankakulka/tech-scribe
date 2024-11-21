@@ -4,9 +4,10 @@ date: 2022-11-30T11:47:12+01:00
 draft: false
 show_reading_time: true
 featured_image: "/images/geo_pyta.png"
-tags: ['python','python3', 'PDF', 'coding']
+tags: ['python','python3', 'PDF', 'coding', 'productivity']
 toc: true
 omit_header_text: true
+summary: "How to guide for users with basic familiarity of Python"
 ---
 
 # Merge PDFs Using Python
