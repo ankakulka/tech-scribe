@@ -9,8 +9,6 @@ toc: true
 omit_header_text: true
 ---
 
-# Merge PDFs Using Python
-
 Working with PDF files can a pain...but it doesn't have to be. 
 You don't even need any expensive software to handle PDFs: just a few lines of Python code will suffice.
 
