@@ -7,11 +7,8 @@ draft: false
 toc: true
 show_reading_time: true
 omit_header_text: true
-summary: "How to guide for an average user such as content creator or"
+summary: "How to guide for an average user such as content creator"
 ---
-
-
-# Create a new page using Hugo Static Site Generator
 
 ## **USE CASE** 
 
@@ -21,10 +18,10 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 1. Open Visual Studio Code.   
 2. Go to Open folder and search for the *`tech-scribe`* folder.  
-   ![][image1]
+   ![UI screenshot](images/hugo-step1.png)
 
 3. From the top menu open a new terminal: `Terminal > New Terminal.`   
-   ![][image2]
+   ![UI screenshot](images/hugo-step1.png)
 
 4. In the terminal, the command to create a new page:  
    	  
@@ -36,20 +33,17 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 5. Go to the Explorer sidebar, and click on `your-post.md` to select it.   
    The folder and the file are highlighted in green.  
-   ![][image3]
+   ![UI screenshot](images/hugo-step1.png)
 
 6. Hugo creates an empty file containing metadata ( “front matter”) at the top of the page.    
    Example: 
 
    ```markdown
-
-   \---
-
+   ---
    title: "Your Post"`
-   date: 2024-11-16T13:56:34+01:00`
+   date: 2024-11-16T13:56:34+01:00
    draft: true
-   
-    \---
+   ---
     ```
 
    Replace `true` by false. The page is now no longer in the draft mode   
