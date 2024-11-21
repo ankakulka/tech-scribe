@@ -6,14 +6,11 @@ a {
     color: #aaeed5;
   }
 
-  h1, h2 {
+  h1, h2, h3, h4, h5, h6 {
     color: #76c9ae;
   }
 
 
-h3, h4, h5, h6 {
-    color: #aaeed5;
-  }
 
   /* BACKGREOUND */
 
