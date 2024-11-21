@@ -1,3 +1,28 @@
+a {
+    color: #76c9ae;
+  }
+
+  a:hover {
+    color: #aaeed5;
+  }
+
+  h1, h2 {
+    color: #76c9ae;
+  }
+
+
+h3, h4, h5, h6 {
+    color: #aaeed5;
+  }
+
+  /* BACKGREOUND */
+
+  .bg-white {
+    background-color: #f6fffc;
+  }
+
+  /* FOOTER */
+
 .site-footer {
     background-color: #76c9ae;
     padding: 2rem 0;
@@ -5,4 +30,10 @@
   
   .site-footer p {
     color: #001b44;
+  }
+
+/* Reduce vertical space above the footer */
+
+  .pb7 {
+    padding-bottom: 2rem; /* Adjust this value as needed */
   }
