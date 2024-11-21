@@ -3,7 +3,7 @@ title: "Merge PDFs Using Python"
 date: 2022-11-30T11:47:12+01:00
 draft: false
 show_reading_time: true
-featured_image: "/images/geo_pyta.png"
+featured_image: "/images/big-snake.png"
 tags: ['python','python3', 'PDF', 'coding']
 toc: true
 omit_header_text: true
