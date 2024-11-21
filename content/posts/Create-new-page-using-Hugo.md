@@ -6,6 +6,7 @@ featured_image: "/images/hugo-header.png"
 draft: false
 toc: true
 show_reading_time: true
+omit_header_text: true
 ---
 
 

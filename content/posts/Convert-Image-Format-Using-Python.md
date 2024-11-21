@@ -4,6 +4,7 @@ date: 2022-12-18T19:07:18+01:00
 tags: ['python','python3', 'beginner-python', 'image-editing', 'coding']
 draft: false
 toc: true
+omit_header_text: true
 ---
 
 
