@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "A few words about me"
+description: ""
 featured_image: '/images/about-me.png'
 toc: true
 menu:
@@ -9,7 +9,6 @@ menu:
 ---
 <!-- {{< figure src="/images/writing-desk.png" title="Tech writers desk" >}} -->
 
-# Who am I?
 
 As an experienced technical writer in SaaS and API documentation, I bring a blend
 of skills specific to technical writing (docs-as-code, editing, setting up style guides),
@@ -39,6 +38,7 @@ Side projects:
 **Technical Writer** | Freelance (SCAYLE/e-commerce) <br> 
 *Nov. 2023 ― Present*
 
+{{% expand title="Click to see more" %}}
 • Created quick-start guides, reference guides, tutorials, and code samples,
 ensuring that these materials are easy to follow and up-to-date <br/>
 • Improved usability and findability, advised on new information architecture <br/>
@@ -46,45 +46,66 @@ ensuring that these materials are easy to follow and up-to-date <br/>
 • Revised REST API technical documentation and release notes<br/>
 • Migrated extensive documentation to a new platform (Gitbook)<br/>
 
+{{% /expand %}}
+
+
 
 **API Technical Writer** | Softserve for Atlassian <br> 
 *Apr. 2022 ― Jul. 2023*
 
+{{% expand title="Click to see more" %}}
 • Reviewed Jira Cloud platform REST API technical documentation
 (Git and BitBucket used) <br/>
 • Worked closely with multiple developer teams to make sure
 that the documentation is accurate, consistent and up-to-date <br/>
+{{% /expand %}}
+
+
 
 
 **Technical Writer** | XTM <br> 
 *Sep. 2020 ― Mar. 2022*
- 
+
+
+ {{% expand title="Click to see more" %}}
  - Created and maintained various technical content including: Knowledge Base articles, software manuals, and release notes<br>
  - Content strategy/Information architecture: Restructured documentation to make content reusable and user-friendly<br>
  -  **UX writing**: Created UI texts for new features, updated existing texts<br> 
  - Improved existing content and processes
 
+{{% /expand %}}
+
 **Technical Writer** | Etteplan <br> 
 *Feb. 2019 ― July 2020* 
+
+{{% expand title="Click to see more" %}}
 - Created, updated, and proofread technical documentation in English, such as user manuals and installation manual<br> 
 - Proofread articles to ensure the highest quality for publication 
+{{% /expand %}}
+
 
 **Editor** | DTP Mediaservice <br> 
 *July 2018 ― Dec. 2018*
 
+{{% expand title="Click to see more" %}}
  
  - Proofread articles to ensure the highest quality for publication<br> 
  - Created graphics (using InDesign, Illustrator, Photoshop) for online and print publications 
+{{% /expand %}}
+
 
 **Digital Designer** | Freelance <br> 
 *June 2016 ― June 2018*
-
+{{% expand title="Click to see more" %}}
 Created:
  - user interfaces
  - infographics
  - illustrations<br> 
  -  flyers<br>
  - web banners<br>
+{{% /expand %}}
+
+
 
 
 ## Education
