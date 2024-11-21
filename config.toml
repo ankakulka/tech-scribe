@@ -25,7 +25,8 @@ theme = 'ananke'
   site_logo = ""
   description = "Content Design Technical Writing"
   background_color_class = "bg-navy"
-  recent_posts_number = 4
+  recent_posts_number = 3
+  custom_css = ["custom.css"]
 
 [[params.ananke_socials]]
 name = "github"
