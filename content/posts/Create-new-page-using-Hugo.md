@@ -18,10 +18,10 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 1. Open Visual Studio Code.   
 2. Go to Open folder and search for the *`tech-scribe`* folder.  
-   ![UI screenshot][images/hugo-step1.png]
+   ![UI screenshot](images/hugo-step1.png)
 
 3. From the top menu open a new terminal: `Terminal > New Terminal.`   
-   ![UI screenshot][images/hugo-step1.png]
+   ![UI screenshot](images/hugo-step1.png)
 
 4. In the terminal, the command to create a new page:  
    	  
@@ -33,7 +33,7 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 5. Go to the Explorer sidebar, and click on `your-post.md` to select it.   
    The folder and the file are highlighted in green.  
-   ![UI screenshot][images/hugo-step1.png]
+   ![UI screenshot](images/hugo-step1.png)
 
 6. Hugo creates an empty file containing metadata ( “front matter”) at the top of the page.    
    Example: 
