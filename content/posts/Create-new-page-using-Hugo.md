@@ -7,11 +7,8 @@ draft: false
 toc: true
 show_reading_time: true
 omit_header_text: true
-summary: "How to guide for an average user such as content creator or"
+summary: "How to guide for an average user such as content creator"
 ---
-
-
-# Create a new page using Hugo Static Site Generator
 
 ## **USE CASE** 
 
