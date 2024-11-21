@@ -1,7 +1,8 @@
 ---
 title: "Create a new page using Hugo Static Site Generator"
 date: 2024-11-17T17:31:32+01:00
-tags: ['python','python3', 'beginner-python', 'image-editing', 'coding']
+tags: ['Hugo','SSG', 'Static Site Generator']
+featured_image: "/images/hugo-header.png"
 draft: false
 toc: true
 show_reading_time: true
