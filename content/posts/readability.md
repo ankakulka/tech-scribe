@@ -7,6 +7,7 @@ featured_image: "/images/readability3.png"
 tags: ['readability', 'legibility', 'setting text', 'layout']
 toc: true
 omit_header_text: true
+summary: "Blog post about the layout and eadability"
 ---
 
 Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility simply means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished. 
@@ -25,6 +26,7 @@ When working in a desktop publishing programs such as InDesign, you can control 
 Your heart is on your left side...and so should be your text. 
 
 Text formatting on the web got much better in recent years, also CSS now offers much more flexibility. Yet we still see some usual offenders:
+
 - line length too long, 
 - too much line spacing (or too little),
 - center-justified text.

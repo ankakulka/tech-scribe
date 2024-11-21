@@ -5,6 +5,7 @@ tags: ['python','python3', 'beginner-python', 'image-editing', 'coding']
 draft: false
 toc: true
 omit_header_text: true
+summary: "How to guide for users with basic familiarity of Python"
 ---
 
 

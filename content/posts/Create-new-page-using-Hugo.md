@@ -7,6 +7,7 @@ draft: false
 toc: true
 show_reading_time: true
 omit_header_text: true
+summary: "How to guide for an average user such as content creator or"
 ---
 
 
@@ -40,15 +41,16 @@ To instruct an average internet user how to create a page using Hugo Static Site
 6. Hugo creates an empty file containing metadata ( “front matter”) at the top of the page.    
    Example: 
 
+   ```markdown
+
    \---
 
-   `title: "Your Post"`
-
-   `date: 2024-11-16T13:56:34+01:00`
-
-   `draft: true`
-
-   —
+   title: "Your Post"`
+   date: 2024-11-16T13:56:34+01:00`
+   draft: true
+   
+    \---
+    ```
 
    Replace `true` by false. The page is now no longer in the draft mode   
    and the updates will be visible after the publication. 
@@ -65,7 +67,6 @@ To instruct an average internet user how to create a page using Hugo Static Site
 
 10. Press `Ctrl+C` to stop the preview. 
 
-    
 
 **`Result`**: Your page is now ready to be uploaded to GitHub. 
 

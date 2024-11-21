@@ -27,7 +27,6 @@ Gaussian blur filter allows you to add parameters for the radius, so deepending 
 you can choose to make the image extremely blurry or only ever so-slightly.
 
 
-
 ```python
 edit = img.filter(ImageFilter.GaussianBlur(radius=25))
 ```
