@@ -1,13 +1,48 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Tech Scribe</title>
+    <title>Tags on Anna Kulczycka</title>
     <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Tech Scribe</description>
+    <description>Recent content in Tags on Anna Kulczycka</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 12 Nov 2024 19:43:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 17:31:32 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner-Python</title>
+      <link>http://localhost:1313/tags/beginner-python/</link>
+      <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/tags/beginner-python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Coding</title>
+      <link>http://localhost:1313/tags/coding/</link>
+      <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Image-Editing</title>
+      <link>http://localhost:1313/tags/image-editing/</link>
+      <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/tags/image-editing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/tags/python/</link>
+      <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python3</title>
+      <link>http://localhost:1313/tags/python3/</link>
+      <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/tags/python3/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Ai Chatbot</title>
       <link>http://localhost:1313/tags/ai-chatbot/</link>
@@ -107,41 +142,6 @@
       <description></description>
     </item>
     <item>
-      <title>Beginner-Python</title>
-      <link>http://localhost:1313/tags/beginner-python/</link>
-      <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      <guid>http://localhost:1313/tags/beginner-python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Coding</title>
-      <link>http://localhost:1313/tags/coding/</link>
-      <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      <guid>http://localhost:1313/tags/coding/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Image-Editing</title>
-      <link>http://localhost:1313/tags/image-editing/</link>
-      <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      <guid>http://localhost:1313/tags/image-editing/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
-      <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python3</title>
-      <link>http://localhost:1313/tags/python3/</link>
-      <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
-      <guid>http://localhost:1313/tags/python3/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>PDF</title>
       <link>http://localhost:1313/tags/pdf/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
@@ -170,27 +170,6 @@
       <description></description>
     </item>
     <item>
-      <title>Categories</title>
-      <link>http://localhost:1313/tags/categories/</link>
-      <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      <guid>http://localhost:1313/tags/categories/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tags</title>
-      <link>http://localhost:1313/tags/tags/</link>
-      <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      <guid>http://localhost:1313/tags/tags/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Taxonomy</title>
-      <link>http://localhost:1313/tags/taxonomy/</link>
-      <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      <guid>http://localhost:1313/tags/taxonomy/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Layout</title>
       <link>http://localhost:1313/tags/layout/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
@@ -216,27 +195,6 @@
       <link>http://localhost:1313/tags/setting-text/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
       <guid>http://localhost:1313/tags/setting-text/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>API</title>
-      <link>http://localhost:1313/tags/api/</link>
-      <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      <guid>http://localhost:1313/tags/api/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>REST</title>
-      <link>http://localhost:1313/tags/rest/</link>
-      <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      <guid>http://localhost:1313/tags/rest/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SOAP</title>
-      <link>http://localhost:1313/tags/soap/</link>
-      <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      <guid>http://localhost:1313/tags/soap/</guid>
       <description></description>
     </item>
   </channel>

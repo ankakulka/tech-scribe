@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tech Scribe</title>
+    <title>Anna Kulczycka</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Tech Scribe</description>
+    <description>Recent content on Anna Kulczycka</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 12 Nov 2024 19:43:45 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 17:31:32 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a new page using Hugo Static Site Generator</title>
+      <link>http://localhost:1313/posts/create-new-page-using-hugo/</link>
+      <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
+      <guid>http://localhost:1313/posts/create-new-page-using-hugo/</guid>
+      <description>&lt;h1 id=&#34;create-a-new-page-using-hugo-static-site-generator&#34;&gt;Create a new page using Hugo Static Site Generator&lt;/h1&gt;&#xA;&lt;h2 id=&#34;use-case&#34;&gt;&lt;strong&gt;USE CASE&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To instruct an average internet user how to create a page using Hugo Static Site Generator. This guide assumes that Hugo is already installed and configured and Visual Studio Code is installed. The guide refers to this particular user scenario. An example of a user could be a junior Technical Writer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;time-to-complete-est-30-min&#34;&gt;&lt;strong&gt;TIME TO COMPLETE: est. 30 min&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Open Visual Studio Code.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AI Chatbot Tutorial</title>
       <link>http://localhost:1313/posts/ai-chatbot-tutorial/</link>
@@ -37,25 +44,11 @@
       <description>&lt;h2 id=&#34;why-create-svg-animations-using-css&#34;&gt;Why create SVG animations using CSS?&lt;/h2&gt;&#xA;&lt;p&gt;Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly.&#xA;SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - &lt;strong&gt;S&lt;/strong&gt;calable &lt;strong&gt;V&lt;/strong&gt;ector &lt;strong&gt;G&lt;/strong&gt;raphics.&#xA;They will look just as great on a tiny mobile screen as on a huge retina display.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Taxonomy</title>
-      <link>http://localhost:1313/posts/taxonomy/</link>
-      <pubDate>Tue, 29 Nov 2022 15:48:34 +0100</pubDate>
-      <guid>http://localhost:1313/posts/taxonomy/</guid>
-      <description>&lt;h1 id=&#34;taxonomy&#34;&gt;Taxonomy&lt;/h1&gt;&#xA;&lt;h2 id=&#34;before-you-start-why-should-you-create-a-taxonomy&#34;&gt;Before you start: why should you create a taxonomy?&lt;/h2&gt;&#xA;&lt;p&gt;Let&amp;rsquo;s be blunt: is a taxonomy necessary for your project? Why put extra work and effort into creating a system that many organizations seem to eschew? Let me illustrate with a quote from the kmworld&#xA;Knowledge workers spend 15 to 35 percent of their time searching for information&#xA;40 percent cannot find the information they need on their corporate intranets&#xA;15 percent of their time is spent duplicating information that exists but cannot be found&#xA;If the usability of a system can be improved, the time and effort that has been invested will result in time saved by everyone searching for information.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Readability</title>
       <link>http://localhost:1313/posts/readability/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
       <guid>http://localhost:1313/posts/readability/</guid>
       <description>&lt;p&gt;Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility simply means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable. So how do you make a text readable, rather than just legible?&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>REST or SOAP</title>
-      <link>http://localhost:1313/posts/rest-or-soap/</link>
-      <pubDate>Wed, 02 Feb 2022 12:01:28 +0100</pubDate>
-      <guid>http://localhost:1313/posts/rest-or-soap/</guid>
-      <description>&lt;p&gt;First of all, let us consider whether we can compare those web services.&#xA;&lt;strong&gt;SOAP&lt;/strong&gt; (Simple Object Access Protocol), as the full name suggests, is a protocol.&#xA;On the other hand, &lt;strong&gt;REST&lt;/strong&gt; is an architectural style.&#xA;It allows more flexibility and is considered easier to implement.&#xA;RESTful applications have become ubiquitous in recent years, with SOAP web services&#xA;lagging behind. There is no simple answer to whether one is ‘better’ than the other -&#xA;it depends on the use case.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>

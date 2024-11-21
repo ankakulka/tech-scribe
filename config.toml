@@ -1,6 +1,6 @@
 baseURL = 'https://tech-scribe.netlify.app/'
 languageCode = 'en-uk'
-title = 'Tech Scribe'
+title = 'Anna Kulczycka'
 theme = 'ananke'
 
 [menu]

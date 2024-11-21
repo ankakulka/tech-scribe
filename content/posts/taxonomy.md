@@ -1,11 +1,11 @@
 ---
 title: "Taxonomy"
 date: 2022-11-29T15:48:34+01:00
-draft: false
+draft: true
 show_reading_time: true
 featured_image: "/images/taxonomy.png"
 tags: ['taxonomy','categories', 'tags']
-toc: true
+toc: false
 ---
 
 # Taxonomy 
