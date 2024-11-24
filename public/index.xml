@@ -13,49 +13,49 @@
       <link>http://localhost:1313/posts/create-new-page-using-hugo/</link>
       <pubDate>Sun, 17 Nov 2024 17:31:32 +0100</pubDate>
       <guid>http://localhost:1313/posts/create-new-page-using-hugo/</guid>
-      <description>&lt;h1 id=&#34;create-a-new-page-using-hugo-static-site-generator&#34;&gt;Create a new page using Hugo Static Site Generator&lt;/h1&gt;&#xA;&lt;h2 id=&#34;use-case&#34;&gt;&lt;strong&gt;USE CASE&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;To instruct an average internet user how to create a page using Hugo Static Site Generator. This guide assumes that Hugo is already installed and configured and Visual Studio Code is installed. The guide refers to this particular user scenario. An example of a user could be a junior Technical Writer.&lt;/p&gt;&#xA;&lt;h2 id=&#34;time-to-complete-est-30-min&#34;&gt;&lt;strong&gt;TIME TO COMPLETE: est. 30 min&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Open Visual Studio Code.&lt;/p&gt;</description>
+      <description>How to guide for an average user such as content creator</description>
     </item>
     <item>
       <title>AI Chatbot Tutorial</title>
       <link>http://localhost:1313/posts/ai-chatbot-tutorial/</link>
       <pubDate>Tue, 12 Nov 2024 19:43:45 +0100</pubDate>
       <guid>http://localhost:1313/posts/ai-chatbot-tutorial/</guid>
-      <description>&lt;h1 id=&#34;how-to-make-an-ai-chatbot&#34;&gt;How To Make An AI Chatbot&lt;/h1&gt;&#xA;&lt;p&gt;You have probably noticed how quickly chatbots have proliferated in the last few years and months. The rapid adoption of chatbots has been made possible not just by the open-source LLMs (Large Language Models) but also thanks to low-code platforms such as n8n.&lt;/p&gt;&#xA;&lt;p&gt;Large Language Models are neural networks  trained on large datasets and can detect patterns in them. Thanks to that ability, they can predict characters or words that would plausibly follow in a sequence.&lt;/p&gt;</description>
+      <description>AI Chatbot tutorial using no code/low code platform</description>
     </item>
     <item>
       <title>Convert image format using Python</title>
       <link>http://localhost:1313/posts/convert-image-format-using-python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
       <guid>http://localhost:1313/posts/convert-image-format-using-python/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop -&#xA;but did you know you can also edit images using Python?&#xA;While &lt;a href=&#34;https://pillow.readthedocs.io/en/stable/index.html#&#34;&gt;Pillow&lt;/a&gt;, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop,&#xA;it does help you to perform certain actions &lt;strong&gt;faster&lt;/strong&gt; - and completely free.&lt;/p&gt;&#xA;&lt;p&gt;In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library.&#xA;You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.&lt;/p&gt;</description>
+      <description>How to guide for users with basic familiarity of Python</description>
     </item>
     <item>
       <title>Merge PDFs Using Python</title>
       <link>http://localhost:1313/posts/merge-pdfs-using-python/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       <guid>http://localhost:1313/posts/merge-pdfs-using-python/</guid>
-      <description>&lt;h1 id=&#34;merge-pdfs-using-python&#34;&gt;Merge PDFs Using Python&lt;/h1&gt;&#xA;&lt;p&gt;Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be.&#xA;You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.&lt;/p&gt;&#xA;&lt;p&gt;In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.&#xA;This method is much quicker and cheaper and all the tools used here are free.&lt;/p&gt;</description>
+      <description>How to guide for users with basic familiarity of Python</description>
     </item>
     <item>
       <title>CSS Animation Tutorial</title>
       <link>http://localhost:1313/posts/css-animation-tutorial/</link>
       <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
       <guid>http://localhost:1313/posts/css-animation-tutorial/</guid>
-      <description>&lt;h2 id=&#34;why-create-svg-animations-using-css&#34;&gt;Why create SVG animations using CSS?&lt;/h2&gt;&#xA;&lt;p&gt;Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly.&#xA;SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - &lt;strong&gt;S&lt;/strong&gt;calable &lt;strong&gt;V&lt;/strong&gt;ector &lt;strong&gt;G&lt;/strong&gt;raphics.&#xA;They will look just as great on a tiny mobile screen as on a huge retina display.&lt;/p&gt;</description>
+      <description>CSS tutorial for users with some HTML and CSS knowledge</description>
     </item>
     <item>
       <title>Readability</title>
       <link>http://localhost:1313/posts/readability/</link>
       <pubDate>Tue, 29 Nov 2022 15:42:13 +0100</pubDate>
       <guid>http://localhost:1313/posts/readability/</guid>
-      <description>&lt;p&gt;Legibility and readability can be easily confused. Let’s start with ‘legibility’, as the more important of the two. Legibility simply means that the text can be read. The contrast between the background and the font color is sufficient, the size is suitable, the letterforms can be easily distinguished.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;A ‘readable’ text invites you to read. It goes beyond simple legibility. Usually, some clever formatting is needed to make the text readable. So how do you make a text readable, rather than just legible?&lt;/p&gt;</description>
+      <description>Blog post about the layout and eadability</description>
     </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h1 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h1&gt;&#xA;&lt;p&gt;As an experienced technical writer in SaaS and API documentation, I bring a blend&#xA;of skills specific to technical writing (docs-as-code, editing, setting up style guides),&#xA;as well as technical expertise including; understanding of JavaScript and Python,&#xA;web development and RESTful APIs. In line with content design best practices,&#xA;I can also create visual aids such as diagrams and videos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;I have worked with:&lt;/p&gt;</description>
+      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;p&gt;As an experienced technical writer in SaaS and API documentation, I bring a blend&#xA;of skills specific to technical writing (docs-as-code, editing, setting up style guides),&#xA;as well as technical expertise including; understanding of JavaScript and Python,&#xA;web development and RESTful APIs. In line with content design best practices,&#xA;I can also create visual aids such as diagrams and videos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;&#xA;&lt;p&gt;I have worked with:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

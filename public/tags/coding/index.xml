@@ -13,21 +13,21 @@
       <link>http://localhost:1313/posts/convert-image-format-using-python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
       <guid>http://localhost:1313/posts/convert-image-format-using-python/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop -&#xA;but did you know you can also edit images using Python?&#xA;While &lt;a href=&#34;https://pillow.readthedocs.io/en/stable/index.html#&#34;&gt;Pillow&lt;/a&gt;, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop,&#xA;it does help you to perform certain actions &lt;strong&gt;faster&lt;/strong&gt; - and completely free.&lt;/p&gt;&#xA;&lt;p&gt;In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library.&#xA;You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.&lt;/p&gt;</description>
+      <description>How to guide for users with basic familiarity of Python</description>
     </item>
     <item>
       <title>Merge PDFs Using Python</title>
       <link>http://localhost:1313/posts/merge-pdfs-using-python/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       <guid>http://localhost:1313/posts/merge-pdfs-using-python/</guid>
-      <description>&lt;h1 id=&#34;merge-pdfs-using-python&#34;&gt;Merge PDFs Using Python&lt;/h1&gt;&#xA;&lt;p&gt;Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be.&#xA;You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.&lt;/p&gt;&#xA;&lt;p&gt;In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.&#xA;This method is much quicker and cheaper and all the tools used here are free.&lt;/p&gt;</description>
+      <description>How to guide for users with basic familiarity of Python</description>
     </item>
     <item>
       <title>CSS Animation Tutorial</title>
       <link>http://localhost:1313/posts/css-animation-tutorial/</link>
       <pubDate>Tue, 29 Nov 2022 16:02:35 +0100</pubDate>
       <guid>http://localhost:1313/posts/css-animation-tutorial/</guid>
-      <description>&lt;h2 id=&#34;why-create-svg-animations-using-css&#34;&gt;Why create SVG animations using CSS?&lt;/h2&gt;&#xA;&lt;p&gt;Animations created with JavaScript (or animated gifs) can become heavy and cause web pages to load slowly.&#xA;SVGs are light and can be either referenced or embedded directly in the code. The clue to another advantage of using SVGs is in the name - &lt;strong&gt;S&lt;/strong&gt;calable &lt;strong&gt;V&lt;/strong&gt;ector &lt;strong&gt;G&lt;/strong&gt;raphics.&#xA;They will look just as great on a tiny mobile screen as on a huge retina display.&lt;/p&gt;</description>
+      <description>CSS tutorial for users with some HTML and CSS knowledge</description>
     </item>
   </channel>
 </rss>

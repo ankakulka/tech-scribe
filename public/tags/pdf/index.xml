@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/merge-pdfs-using-python/</link>
       <pubDate>Wed, 30 Nov 2022 11:47:12 +0100</pubDate>
       <guid>http://localhost:1313/posts/merge-pdfs-using-python/</guid>
-      <description>&lt;h1 id=&#34;merge-pdfs-using-python&#34;&gt;Merge PDFs Using Python&lt;/h1&gt;&#xA;&lt;p&gt;Working with PDF files can a pain&amp;hellip;but it doesn&amp;rsquo;t have to be.&#xA;You don&amp;rsquo;t even need any expensive software to handle PDFs: just a few lines of Python code will suffice.&lt;/p&gt;&#xA;&lt;p&gt;In this quick tutorial I&amp;rsquo;ll show you how to easily merge multiple files without having to tinker in the Adobe Acrobat or a similar program, simply taking advantage of the capabilities of the PyPDF2 library.&#xA;This method is much quicker and cheaper and all the tools used here are free.&lt;/p&gt;</description>
+      <description>How to guide for users with basic familiarity of Python</description>
     </item>
   </channel>
 </rss>

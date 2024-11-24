@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/convert-image-format-using-python/</link>
       <pubDate>Sun, 18 Dec 2022 19:07:18 +0100</pubDate>
       <guid>http://localhost:1313/posts/convert-image-format-using-python/</guid>
-      <description>&lt;p&gt;There&amp;rsquo;s plenty of image editing software out there, most notably Photoshop -&#xA;but did you know you can also edit images using Python?&#xA;While &lt;a href=&#34;https://pillow.readthedocs.io/en/stable/index.html#&#34;&gt;Pillow&lt;/a&gt;, the Python library used in this tutorial, won&amp;rsquo;t replace Photoshop,&#xA;it does help you to perform certain actions &lt;strong&gt;faster&lt;/strong&gt; - and completely free.&lt;/p&gt;&#xA;&lt;p&gt;In this introductory tutorial I&amp;rsquo;ll show you how to convert image format using Pillow library.&#xA;You can then build on that knowledge to progress to the more advanced concepts, such as Image filters.&lt;/p&gt;</description>
+      <description>How to guide for users with basic familiarity of Python</description>
     </item>
   </channel>
 </rss>
