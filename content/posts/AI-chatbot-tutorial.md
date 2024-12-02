@@ -95,6 +95,7 @@ We’ll create two workflows:
 In this workflow, we'll insert a document containing our custom data and insert it into the vector store. Vector embeddings allow us to convert a text document into vectors. Thanks to the text splitter the text is sliced into manageable chunks. At the end of the workflow, our database table is filled, and we can reference processed vector data to build the actual chatbot.
 
 <!-- ![][image1] -->
+ ![UI screenshot](/images/chatbot/supabaseTrigger.png)
 
 1. **Add a manual trigger.**   
    Click the *Add first step.* In the nodes panel select *Manually*.  
@@ -106,6 +107,7 @@ In this workflow, we'll insert a document containing our custom data and insert 
    In the *Operation Mode*, select *Insert Documents*.  
    In the *Table Name* dropdown, select your Supabase table.   
    <!-- ![][image2]   -->
+    ![UI screenshot](/images/chatbot/vectorStore.png)
 4. **Add OpenAI Embeddings.**  
    Click the **\+** button attached to the *Supabase Vector Store* node to add Vector embeddings. Embeddings from OpenAI is our pick, but you also have the option to easily integrate other embeddings if you prefer.   
 5. **Add Data Loader.**  
@@ -123,6 +125,7 @@ In this workflow, we'll insert a document containing our custom data and insert 
 The second workflow is where we build the actual chatbot. We'll use the Question and Answer chain node to connect LLM and the vector store. You can also test the chatbot directly in the workflow Canvas.
 
 <!-- ![][image3] -->
+![UI screenshot](/images/chatbot/workflow.png)
 
 1. **Add a manual trigger.**  
    Select *Manually* from the nodes panel so that the workflow starts when the user types a question in a chat window.   
