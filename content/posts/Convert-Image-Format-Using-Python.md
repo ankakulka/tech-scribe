@@ -4,7 +4,7 @@ date: 2022-12-18T19:07:18+01:00
 tags: ['python','python3', 'beginner-python', 'image-editing', 'coding']
 draft: false
 toc: true
-featured_image: "/images/big-snake.png"
+featured_image: "/images/500/pyta-2000x500.png"
 omit_header_text: true
 summary: "How to guide for users with basic familiarity of Python"
 ---

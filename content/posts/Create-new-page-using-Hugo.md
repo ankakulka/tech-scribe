@@ -2,7 +2,7 @@
 title: "Create a new page using Hugo Static Site Generator"
 date: 2024-11-17T17:31:32+01:00
 tags: ['Hugo','SSG', 'Static Site Generator']
-featured_image: "/images/hugo-header.png"
+featured_image: "/images/500/hugo-2000x500.png"
 draft: false
 toc: true
 show_reading_time: true
